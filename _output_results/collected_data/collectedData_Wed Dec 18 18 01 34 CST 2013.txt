@@ -1,0 +1,13 @@
+on_99_0 off on_18 on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:01:47 CST 2013
+off off on_18 on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:15 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:29 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:30 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:32 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:33 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:34 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:35 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:36 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:37 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:39 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:40 CST 2013
+off off off on_255 off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Wed Dec 18 18:02:41 CST 2013

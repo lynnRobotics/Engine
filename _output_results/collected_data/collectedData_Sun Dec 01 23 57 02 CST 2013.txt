@@ -1,0 +1,14 @@
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:41 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:42 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:44 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:46 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:48 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:50 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:50 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:53 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:54 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:57 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:57:58 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:58:01 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:58:03 CST 2013
+on_99_0 off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #NoActivity @Sun Dec 01 23:58:04 CST 2013

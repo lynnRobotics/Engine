@@ -60,7 +60,7 @@ public class IrosTest {
 			Map<String,String> probDBN = new LinkedHashMap<String,String>();
 			for(int i=0 ;i<sensorContext.length;i++){
 				SensorNode s= new SensorNode(sensorName[i],sensorContext[i]);
-				rawFromDBN = GaDBN.GaDBNInference(GA,s.name, s.dicreteValue);
+				rawFromDBN = GaDBN.GaDBNInference(GA,s.name, s.discreteValue);
 			}
 
 			int humanNumber= split[1].split(" ").length;
@@ -864,15 +864,15 @@ public class IrosTest {
 		   	try {
 	
 		   			/*generate energy waste pattern-1*/
-		   			//String modifiedPath=".\\_input_data\\iros_test_data.txt";
- 	   			    //String resultPath=".\\_input_data\\iros_test_data_truth.txt";
+		   			//String modifiedPath="./_input_data/iros_test_data.txt";
+ 	   			    //String resultPath="./_input_data/iros_test_data_truth.txt";
 		   			//generateWastedData(testingDataPath,modifiedPath,resultPath);
 		   			
 		   			/*simulator*/
-	   				//String modifiedPath=".\\_input_data\\simulator\\iros_test_data.txt";
-	   				//String resultPath=".\\_input_data\\simulator\\iros_test_data_truth.txt";
-		   			String modifiedPath=".\\_input_data\\simulator\\simple_test_data.txt";
-		   			String resultPath=".\\_input_data\\simulator\\simple_test_data_truth.txt";
+	   				//String modifiedPath="./_input_data/simulator/iros_test_data.txt";
+	   				//String resultPath="./_input_data/simulator/iros_test_data_truth.txt";
+		   			String modifiedPath="./_input_data/simulator/simple_test_data.txt";
+		   			String resultPath="./_input_data/simulator/simple_test_data_truth.txt";
 
 		   			testingDataPath=modifiedPath;
 
@@ -902,8 +902,8 @@ public class IrosTest {
 				   		kGaList.add(gaList);
 				   		kExpResult.add(expResult);
 					}
-					FileWriter writer = new FileWriter(new File(".\\_output_results\\ess.txt"),false);
-					FileWriter writer2 = new FileWriter(new File(".\\_output_results\\roomBased.txt"),false);
+					FileWriter writer = new FileWriter(new File("./_output_results/ess.txt"),false);
+					FileWriter writer2 = new FileWriter(new File("./_output_results/roomBased.txt"),false);
 					PRClassifier prClassifier= new PRClassifier();
 					ESExpResult systemResult= new ESExpResult();
 					for(int i=1;i<=12;i++){
@@ -936,8 +936,8 @@ public class IrosTest {
 							/*Get Service*/
 						    prModel=prClassifier.inferPR(prFeature);
 							/*given ES service*/
-							writer = new FileWriter(new File(".\\_output_results\\ess.txt"),true);
-							writer2 = new FileWriter(new File(".\\_output_results\\roomBased.txt"),true);
+							writer = new FileWriter(new File("./_output_results/ess.txt"),true);
+							writer2 = new FileWriter(new File("./_output_results/roomBased.txt"),true);
 							ArrayList<String> nonAdjustableAppList=getNonAdjustableAppList(read,GaEscList,prClassifier,GaGeneratorList);
 							writeRoomBasedResult(writer2,read,appNoiseGroundTruth,nonAdjustableAppList,roomBasedResult);
 							writeESSResult(writer,prModel,read,appNoiseGroundTruth,nonAdjustableAppList,systemResult,roomBasedResult);

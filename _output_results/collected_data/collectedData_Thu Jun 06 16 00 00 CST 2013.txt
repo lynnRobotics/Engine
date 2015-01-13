@@ -1,0 +1,14 @@
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:00:11 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:00:13 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:00:15 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:00:17 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:19 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:21 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:23 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:25 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:27 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:29 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:31 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:33 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Jun 06 16:00:35 CST 2013
+on_3 off off off off off off standby off off standby off off standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Jun 06 16:00:41 CST 2013

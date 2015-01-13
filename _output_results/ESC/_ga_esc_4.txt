@@ -1,0 +1,45 @@
+Activity: g4-1
+Explicit :current_lamp_study|explicit|on|0.99,  current_NB_study|explicit|standby|0.99,  
+Implicit :light_livingroom|implicit|off|1.0,  light_hallway|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  light_study|implicit|on|0.84,  current_watercoldfan_livingroom|implicit|standby|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_lamp_livingroom|implicit|off|1.0,  current_xbox_livingroom|implicit|off|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_AC_bedroom|implicit|standby|1.0,  current_AC_livingroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  
+
+
+Activity: g4-2
+Explicit :light_livingroom|explicit|off|1.0,  light_kitchen|explicit|off|1.0,  current_lamp_bedroom|explicit|off|1.0,  current_microwave_kitchen|explicit|standby|0.82,  
+Implicit :light_hallway|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  light_study|implicit|off|1.0,  current_watercoldfan_livingroom|implicit|standby|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_TV_livingroom|implicit|standby|0.88,  current_lamp_livingroom|implicit|off|1.0,  current_xbox_livingroom|implicit|off|1.0,  current_AC_bedroom|implicit|standby|1.0,  current_AC_livingroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_lamp_study|implicit|off|1.0,  current_NB_study|implicit|standby|1.0,  
+
+
+Activity: g4-3
+Explicit :current_TV_livingroom|explicit|on|1.0,  current_xbox_livingroom|explicit|on|0.98,  current_AC_livingroom|explicit|standby|0.96,  
+Implicit :light_livingroom|implicit|on|0.99,  light_hallway|implicit|off|1.0,  light_bedroom|implicit|off|0.89,  light_kitchen|implicit|off|1.0,  light_study|implicit|off|1.0,  current_watercoldfan_livingroom|implicit|standby|0.9,  current_lamp_bedroom|implicit|off|0.88,  current_PC_bedroom|implicit|standby|0.91,  current_lamp_livingroom|implicit|off|0.96,  current_microwave_kitchen|implicit|standby|0.99,  current_AC_bedroom|implicit|standby|0.89,  current_monitor_bedroom|implicit|standby|0.91,  current_lamp_study|implicit|off|1.0,  current_NB_study|implicit|standby|1.0,  
+
+
+Activity: g4-4
+Explicit :current_watercoldfan_livingroom|explicit|on|0.99,  
+Implicit :light_livingroom|implicit|on|1.0,  light_hallway|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  light_study|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_lamp_livingroom|implicit|off|1.0,  current_xbox_livingroom|implicit|off|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_AC_bedroom|implicit|standby|1.0,  current_AC_livingroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_lamp_study|implicit|off|1.0,  current_NB_study|implicit|standby|1.0,  
+
+
+Activity: g4-5
+Explicit :light_livingroom|explicit|on|1.0,  current_PC_bedroom|explicit|standby|0.99,  current_lamp_livingroom|explicit|on|0.99,  current_AC_bedroom|explicit|off|0.58,  current_AC_livingroom|explicit|standby|0.93,  
+Implicit :light_hallway|implicit|off|1.0,  light_bedroom|implicit|off|0.99,  light_kitchen|implicit|off|0.99,  light_study|implicit|off|1.0,  current_watercoldfan_livingroom|implicit|standby|1.0,  current_lamp_bedroom|implicit|off|0.86,  current_TV_livingroom|implicit|standby|0.88,  current_xbox_livingroom|implicit|off|0.94,  current_microwave_kitchen|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_lamp_study|implicit|off|1.0,  current_NB_study|implicit|standby|1.0,  
+
+
+Activity: g4-6
+Explicit :light_bedroom|explicit|on|1.0,  current_watercoldfan_livingroom|explicit|standby|0.78,  current_PC_bedroom|explicit|on|0.99,  current_lamp_livingroom|explicit|off|0.99,  current_monitor_bedroom|explicit|on|0.99,  
+Implicit :light_livingroom|implicit|off|0.79,  light_hallway|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  light_study|implicit|off|1.0,  current_lamp_bedroom|implicit|off|0.99,  current_TV_livingroom|implicit|standby|0.79,  current_xbox_livingroom|implicit|off|0.89,  current_microwave_kitchen|implicit|standby|0.99,  current_AC_bedroom|implicit|standby|1.0,  current_AC_livingroom|implicit|standby|1.0,  current_lamp_study|implicit|off|1.0,  current_NB_study|implicit|standby|1.0,  
+
+
+Activity: g4-7
+Explicit :light_kitchen|explicit|on|1.0,  current_microwave_kitchen|explicit|on|0.94,  
+Implicit :light_livingroom|implicit|off|1.0,  light_hallway|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  light_study|implicit|off|1.0,  current_watercoldfan_livingroom|implicit|standby|1.0,  current_lamp_bedroom|implicit|off|0.85,  current_PC_bedroom|implicit|standby|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_lamp_livingroom|implicit|off|1.0,  current_xbox_livingroom|implicit|off|1.0,  current_AC_bedroom|implicit|standby|1.0,  current_AC_livingroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_lamp_study|implicit|off|1.0,  current_NB_study|implicit|standby|1.0,  
+
+
+Activity: g4-8
+Explicit :current_lamp_bedroom|explicit|on|1.0,  current_microwave_kitchen|explicit|standby|0.77,  current_AC_bedroom|explicit|off|0.77,  
+Implicit :light_livingroom|implicit|on|0.77,  light_hallway|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  light_kitchen|implicit|off|0.77,  light_study|implicit|off|1.0,  current_watercoldfan_livingroom|implicit|standby|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_lamp_livingroom|implicit|off|0.77,  current_xbox_livingroom|implicit|off|0.73,  current_AC_livingroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_lamp_study|implicit|off|1.0,  current_NB_study|implicit|standby|1.0,  
+
+
+Activity: g4-9
+Explicit :light_bedroom|explicit|off|1.0,  current_lamp_bedroom|explicit|on|1.0,  
+Implicit :light_livingroom|implicit|off|1.0,  light_hallway|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  light_study|implicit|off|1.0,  current_watercoldfan_livingroom|implicit|standby|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_lamp_livingroom|implicit|off|1.0,  current_xbox_livingroom|implicit|off|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_AC_bedroom|implicit|standby|1.0,  current_AC_livingroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_lamp_study|implicit|off|1.0,  current_NB_study|implicit|standby|1.0,  
+
+

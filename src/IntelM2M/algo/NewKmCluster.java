@@ -44,7 +44,7 @@ public class NewKmCluster {
 
     		try
 	    	{  			
-	    		File f = new File(".\\_weka_training_data\\cluster.arff");
+	    		File f = new File("./_weka_training_data/cluster.arff");
 	        	Instances train = new Instances(new BufferedReader(new FileReader(f)));
 	        	AddCluster ac = new AddCluster();  
 	        	SimpleKMeans skm = new SimpleKMeans(); 

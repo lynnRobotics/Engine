@@ -1,3 +1,0 @@
-TakingBath 4.74, 2, 0, 5, 5
-UsingRestroom 2.38, 2, 2, 5, 5
-BrushingTooth 1.92, 2, 0, 5, 5

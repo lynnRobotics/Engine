@@ -7,7 +7,7 @@ public class FuzzyInference {
 
 	/*old-wrong version*/
 	static public double getPriority_old(AppNode app){
-		String fileName= ".\\fcl\\eus.fcl";;
+		String fileName= "./fcl/eus.fcl";
         FIS fis = FIS.load(fileName,true);
         // Error while loading?
         if( fis == null ) { 
@@ -44,7 +44,7 @@ public class FuzzyInference {
 	
 	/*test version*/
 	static public double getPriority_test(AppNode app){
-		String fileName=".\\fcl\\eus_v2.fcl";
+		String fileName="./fcl/eus_v2.fcl";
         
 
         FIS fis = FIS.load(fileName,true);
@@ -88,13 +88,13 @@ public class FuzzyInference {
         
         /*get node type*/
         if(app.state.equals("off") || app.state.equals("standby")){
-    		 fileName= ".\\fcl\\eus_off_standby.fcl";;
+    		 fileName= "./fcl/eus_off_standby.fcl";;
         	
         }else if(app.escType.equals("implicit") && app.state.equals("on")){
-        	 fileName= ".\\fcl\\eus_on_implicit.fcl";;
+        	 fileName= "./fcl/eus_on_implicit.fcl";;
         	
         }else if(app.escType.equals("explicit") && app.state.equals("on")){
-        	fileName= ".\\fcl\\eus_on_explicit.fcl";;
+        	fileName= "./fcl/eus_on_explicit.fcl";;
         }
         FIS fis = FIS.load(fileName,true);
         // Error while loading?

@@ -3,7 +3,7 @@
 	<sensorList>
 		<type id="light">
 			
-			<sensor id="94">
+			<sensor id="77">
 				<name>light_livingroom</name>
 				<status>off on</status>
 				<ampere>0 0.4</ampere>
@@ -11,7 +11,7 @@
 				<comfort_type>visual</comfort_type>
 				<switch>1 2 3</switch>
 			</sensor>
-			<sensor id="110">
+			<sensor id="73">
 				<name>light_hallway</name>
 				<status>off on</status>
 				<ampere>0 0.4</ampere>

@@ -1,4 +1,0 @@
-WatchingTV 1.845, 0, 0, 2
-PlayingKinect 1.845, 0, 0, 2
-Chatting 1.845, 0, 0, 2
-ReadingBook 1.845, 0, 0, 2

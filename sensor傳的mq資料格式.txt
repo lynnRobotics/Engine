@@ -1,0 +1,11 @@
+//{"subject":"PIR","id":"7","value":"25"}
+{"subject":"comfort_sensor","id":"94","lux":"390","humidity":"63.22","temperature":"23.4"}
+{"subject":"comfort_sensor","id":"110","lux":"20","humidity":"61.56","temperature":"24"}
+{"subject":"comfort_sensor","id":"47","lux":"20","humidity":"62.46","temperature":"24"}
+{"subject":"comfort_sensor","id":"80","lux":"20","humidity":"53.71","temperature":"26.05"}
+{"subject":"comfort_sensor","id":"40","lux":"200","humidity":"59.23","temperature":"24"}
+{"subject":"audio","id":"86","value":"0.2"}
+{"subject":"socketmeter","id":"07","ampere":"3.13"}
+{"subject":"socketmeter","id":"06","ampere":"0.09"}
+{"subject":"socketmeter","id":"02","ampere":"0.28"}
+{"subject":"camera","id":"01","value":"1"}

@@ -19,16 +19,16 @@ import IntelM2M.exp.LocationBasedSaving;
  */
 public class SimulatorTest {
 
-	// String testingDataPath=".\\_input_data\\simulator\\testing\\all_test_data.txt";
-	// String noiseTruthPath=".\\_input_data\\simulator\\testing\\all_test_data_truth.txt";
-	// String testingDataPath=".\\_input_data\\simulator\\testing\\debug_test_data.txt";
-	// String noiseTruthPath=".\\_input_data\\simulator\\testing\\debug_test_data_truth.txt";
-	String testingDataPath = ".\\_input_data\\simulator\\testing\\parameter1\\Set 1\\simple_test_data.txt";
-	String noiseTruthPath = ".\\_input_data\\simulator\\testing\\parameter1\\Set 1\\simple_test_data_truth.txt";
+	// String testingDataPath="./_input_data/simulator/testing/all_test_data.txt";
+	// String noiseTruthPath="./_input_data/simulator/testing/all_test_data_truth.txt";
+	// String testingDataPath="./_input_data/simulator/testing/debug_test_data.txt";
+	// String noiseTruthPath="./_input_data/simulator/testing/debug_test_data_truth.txt";
+	String testingDataPath = "./_input_data/simulator/testing/parameter1/Set 1/simple_test_data.txt";
+	String noiseTruthPath = "./_input_data/simulator/testing/parameter1/Set 1/simple_test_data_truth.txt";
 
 	/* for debug */
-	// String testingDataPath=".\\_input_data\\simulator\\debug\\simple_test_data.txt";
-	// String noiseTruthPath=".\\_input_data\\simulator\\debug\\simple_test_data_truth.txt";
+	// String testingDataPath="./_input_data/simulator/debug/simple_test_data.txt";
+	// String noiseTruthPath="./_input_data/simulator/debug/simple_test_data_truth.txt";
 	/* for experiment */
 	public static int rowNum = 0;
 	public static int duration = 0;

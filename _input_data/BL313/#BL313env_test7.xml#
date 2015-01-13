@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metaData>
+	<sensorList>
+		<type id="light">
+			<sensor id="94"><!-- index = 0 -->
+				<name>light_livingroom</name>
+				<status>off on</status>
+				<ampere>0 0.4</ampere>
+				<threshold>45</threshold>
+				<comfort_type>visual</comfort_type>
+				<switch>1 2 3</switch>
+				<switch_ampere>0.25 0.49 0.73</switch_ampere>
+				<switch_lux>140 370 390</switch_lux>
+			</sensor>
+			<sensor id="110"><!-- 1 -->
+				<name>light_hallway</name>
+				<status>off on</status>
+				<ampere>0 0.4</ampere>
+				<threshold>90</threshold>
+				<comfort_type>visual</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.12</switch_ampere>
+				<switch_lux>100</switch_lux>
+			</sensor>
+			<sensor id="47"> <!-- 自然光 225 lux --> <!-- 2 -->
+				<name>light_bedroom</name>
+				<status>off on</status>
+				<ampere>0 0.4</ampere>
+				<threshold>170</threshold>
+				<comfort_type>visual</comfort_type>
+				<switch>1 2 3</switch>
+				<switch_ampere>0.38 0.49 0.87</switch_ampere>
+				<switch_lux>200 280 562.5</switch_lux>
+			</sensor>
+			<sensor id="80"><!-- 3 -->
+				<name>light_kitchen</name>
+				<status>off on</status>
+				<ampere>0 0.4</ampere>
+				<threshold>60</threshold>
+				<comfort_type>visual</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.12</switch_ampere>
+				<switch_lux>103.2</switch_lux>
+			</sensor>
+			<sensor id="40"><!-- 4 -->
+				<name>light_study</name>
+				<status>off on</status>
+				<ampere>0 0.4</ampere>
+				<threshold>60</threshold>
+				<comfort_type>visual</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.12</switch_ampere>
+				<switch_lux>103.2</switch_lux>
+			</sensor>
+			
+		</type>
+		
+		<type id="switch">
+			<sensor id="4"><!-- 5 -->
+				<name>switch_door_hallway</name>
+				<status>on off</status>
+				<threshold>4000</threshold>
+			</sensor>
+		</type>
+		
+		<type id="audio">
+			<sensor id="86"><!-- 6 -->
+				<name>audio_livingroom</name>
+				<status>off on</status>
+				<threshold>0.41</threshold>
+			</sensor>
+		</type>
+		
+		<type id="current">
+			<sensor id="90"><!-- 7 -->
+				<name>current_watercoldfan_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.06 0.72</ampere>
+				<threshold>0.005 0.4</threshold>
+				<comfort_type>none</comfort_type>
+				<switch>1 2 3</switch>
+				<switch_ampere>0.72 0.77 0.82</switch_ampere>
+			</sensor>
+						
+			<sensor id="6"><!-- 8 -->
+				<name>current_lamp_bedroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.03 0.52</ampere>
+				<threshold>0.001 0.2</threshold>
+				<comfort_type>none</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.35</switch_ampere>
+				<switch_lux>2385</switch_lux>
+			</sensor>
+			
+			<sensor id="25"><!-- 9 -->
+				<name>current_PC_bedroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.13 0.4</ampere>
+				<threshold>0.08 0.2</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+						
+			<sensor id="88"><!-- 10 -->
+				<name>current_TV_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.25 0.509</ampere>
+				<threshold>0.25 0.3</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+			
+			<sensor id="5"><!-- 11 -->
+				<name>current_lamp_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.13 0.52</ampere>
+				<threshold>0.01 0.3</threshold>
+				<comfort_type>none</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.35</switch_ampere>
+				<switch_lux>100.8</switch_lux>
+			</sensor>
+			
+			<sensor id="89"><!-- 12 -->
+				<name>current_xbox_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.03 1.38</ampere>
+				<threshold>0.001 0.6</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+			
+			<sensor id="58"><!-- 13 -->
+				<name>current_microwave_kitchen</name>
+				<status>off standby on</status>
+				<ampere>0 0.07 12.85</ampere>
+				<threshold>0.03 5</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+			
+			<sensor id="20"><!-- 14 -->
+				<name>current_AC_bedroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.01 5.38</ampere>
+				<threshold>0.005 0.2</threshold>
+				<comfort_type>thermal</comfort_type>
+				<switch>16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</switch>
+				<switch_ampere>10 9.39 8.85 8.31 7.81 7.33 6.89 6.48 6.09 5.72 5.38 5.1 4.75 4.47 4.21</switch_ampere>
+			</sensor>
+						
+			<sensor id="21"><!-- 15 -->
+				<name>current_AC_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.01 5.38</ampere>
+				<threshold>0.005 0.2</threshold>
+				<comfort_type>thermal</comfort_type>
+				<switch>16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</switch>
+				<switch_ampere>10 9.39 8.85 8.31 7.81 7.33 6.89 6.48 6.09 5.72 5.38 5.1 4.75 4.47 4.21</switch_ampere>
+			</sensor>
+			
+			<sensor id="8"><!-- 16 -->
+				<name>current_lamp_study</name>
+				<status>off standby on</status>
+				<ampere>0 0.03 0.33</ampere>
+				<threshold>0.001 0.2</threshold>
+				<comfort_type>none</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.33</switch_ampere>
+				<switch_lux>2385</switch_lux>
+			</sensor>
+			
+			<sensor id="16"><!-- 17 -->
+				<name>current_NB_study</name>
+				<status>off standby on</status>
+				<ampere>0 0.09 0.4</ampere>
+				<threshold>0.05 0.15</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+			
+			<sensor id="15"><!-- 18 -->
+				<name>current_nightlamp_bedroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.01 0.08</ampere>
+				<threshold>0.01 0.04</threshold>
+				<comfort_type>none</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.08</switch_ampere>
+				<switch_lux>20</switch_lux>
+			</sensor>
+		</type>
+		
+		<type id="people">
+			<sensor id="03"><!-- 19 -->
+				<name>people_hallway</name>
+				<status>off on</status>
+				<threshold>1</threshold>
+			</sensor>
+			
+			<sensor id="01"><!-- 20 -->
+				<name>people_livingroom</name>
+				<status>off on</status>
+				<threshold>1</threshold>
+			</sensor>
+			
+			<sensor id="05"><!-- 21 -->
+				<name>people_bedroom</name>
+				<status>off on</status>
+				<threshold>1</threshold>
+			</sensor>
+			
+			<sensor id="04"><!-- 22 -->
+				<name>people_kitchen</name>
+				<status>off on</status>
+				<threshold>1</threshold>
+			</sensor>
+			
+			<sensor id="02"><!-- 23 -->
+				<name>people_study</name>
+				<status>off on</status>
+				<threshold>1</threshold>
+			</sensor>
+		</type>
+	</sensorList>
+	
+	<applianceList>
+		<type id="socketmeter"><!-- 12 meters in total -->
+			<sensor id="02">
+				<name>current_watercoldfan_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.06 0.72</ampere>
+				<threshold>0.005 0.4</threshold>
+				<comfort_type>thermal</comfort_type>
+				<switch>1 2 3</switch>
+				<switch_ampere>0.72 0.77 0.82</switch_ampere>
+			</sensor>
+						
+			<sensor id="03">
+				<name>current_lamp_bedroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.03 0.52</ampere>
+				<threshold>0.001 0.2</threshold>
+				<comfort_type>visual</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.35</switch_ampere>
+				<switch_lux>2385</switch_lux>
+			</sensor>
+			
+			<sensor id="05">
+				<name>current_PC_bedroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.13 0.4</ampere>
+				<threshold>0.08 0.2</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+						
+			<sensor id="07">
+				<name>current_TV_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.08 3.1</ampere><!-- no use for now -->
+				<threshold>0.25 0.3</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+			
+			<sensor id="08">
+				<name>current_lamp_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.13 0.52</ampere>
+				<threshold>0.01 0.3</threshold>
+				<comfort_type>visual</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.35</switch_ampere>
+				<switch_lux>100.8</switch_lux>
+			</sensor>
+			
+			<sensor id="09">
+				<name>current_xbox_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.03 1.38</ampere>
+				<threshold>0.001 0.6</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+			
+			<sensor id="11">
+				<name>current_microwave_kitchen</name>
+				<status>off standby on</status>
+				<ampere>0 0.07 12.85</ampere>
+				<threshold>0.03 5</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+
+			<sensor id="20">
+				<name>current_AC_bedroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.01 5.38</ampere>
+				<threshold>0.005 0.2</threshold>
+				<comfort_type>thermal</comfort_type>
+				<switch>16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</switch>
+				<switch_ampere>10 9.39 8.85 8.31 7.81 7.33 6.89 6.48 6.09 5.72 5.38 5.1 4.75 4.47 4.21</switch_ampere>
+			</sensor>
+			
+			<sensor id="21">
+				<name>current_AC_livingroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.01 5.38</ampere>
+				<threshold>0.005 0.2</threshold>
+				<comfort_type>thermal</comfort_type>
+				<switch>16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</switch>
+				<switch_ampere>10 9.39 8.85 8.31 7.81 7.33 6.89 6.48 6.09 5.72 5.38 5.1 4.75 4.47 4.21</switch_ampere>
+			</sensor>
+
+			<sensor id="10">
+				<name>current_lamp_study</name>
+				<status>off standby on</status>
+				<ampere>0 0.03 0.33</ampere>
+				<threshold>0.001 0.2</threshold>
+				<comfort_type>visual</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.33</switch_ampere>
+				<switch_lux>2385</switch_lux>
+			</sensor>
+			
+			<sensor id="14">
+				<name>current_NB_study</name>
+				<status>off standby on</status>
+				<ampere>0 0.09 0.4</ampere>
+				<threshold>0.05 0.15</threshold>
+				<comfort_type>none</comfort_type>
+			</sensor>
+			
+			<sensor id="16">
+				<name>current_nightlamp_bedroom</name>
+				<status>off standby on</status>
+				<ampere>0 0.01 0.08</ampere>
+				<threshold>0.01 0.04</threshold>
+				<comfort_type>none</comfort_type>
+				<switch>1</switch>
+				<switch_ampere>0.08</switch_ampere>
+				<switch_lux>20</switch_lux>
+			</sensor>
+		</type>
+	</applianceList>
+
+	<roomList>
+		<type id="hallway">
+		</type>
+		<type id="livingroom">
+		</type>
+		<type id="kitchen">
+		</type>
+		<type id="bedroom">
+		</type>
+		<type id="study">
+		</type>
+	</roomList>
+
+	<activityList>
+		<type id="WatchingTV">
+			<intensity>58</intensity>
+		</type>
+		<type id="PlayingKinect">
+			<intensity>60</intensity>
+			<!--<intensity>110</intensity> DEMO-->
+		</type>
+		<type id="Chatting">
+			<intensity>80</intensity>
+			<!--<intensity>58</intensity> Origin-->
+		</type>
+		<type id="Reading">
+			<intensity>60</intensity> <!-- 70 -->
+		</type>
+		<type id="UsingPC">
+			<intensity>70</intensity>
+		</type>
+		<type id="ComeBack">
+			<intensity>58</intensity>
+		</type>
+		<type id="GoOut">
+			<intensity>58</intensity>
+		</type>
+		<type id="PreparingFood">
+			<intensity>70</intensity>
+		</type>
+		<type id="Sleeping">
+			<intensity>46</intensity>
+		</type>
+		<type id="AllSleeping">
+			<intensity>46</intensity>
+		</type>
+		<type id="UsingNoteBook">
+			<intensity>60</intensity>
+		</type>
+		<type id="Studying">
+			<intensity>60</intensity>
+		</type>
+	</activityList>
+
+	<relation>
+		<location id="hallway">
+			<activity>ComeBack GoOut</activity>
+			<appliance>light_hallway</appliance>
+		</location>
+		<location id="livingroom">
+			<activity>WatchingTV PlayingKinect Chatting Reading</activity>
+			<appliance>current_TV_livingroom current_xbox_livingroom current_watercoldfan_livingroom current_lamp_livingroom light_livingroom</appliance>
+		</location>
+		<location id="kitchen">
+			<activity>PreparingFood</activity>
+			<appliance>current_microwave_kitchen light_kitchen</appliance>
+		</location>
+		<location id="bedroom">
+			<activity>UsingPC Sleeping AllSleeping</activity>
+			<appliance>current_lamp_bedroom current_PC_bedroom current_AC_bedroom current_nightlamp_bedroom light_bedroom</appliance>
+		</location>
+		<location id="study">
+			<activity>UsingNoteBook Studying</activity>
+			<appliance>current_lamp_study current_NB_study light_study</appliance>
+		</location>
+		<location id="global">
+			<appliance>current_AC_livingroom</appliance>
+		</location>
+	</relation>
+	
+	<comfort_table>
+		<visual>
+			<location id="hallway">
+				<appliance>light_hallway</appliance>
+				<relation>
+					1_1 = 60 lux;
+				</relation>
+			</location>
+			<location id="livingroom">
+				<appliance>light_livingroom</appliance>
+				<relation>
+					1_1 = 65.6 lux;
+					1_2 = 180 lux;
+					1_3 = 390 lux;
+				</relation>
+			</location>
+			<location id="kitchen">
+				<appliance>light_kitchen</appliance>
+				<relation>
+					1_1 = 103.2 lux;
+				</relation>
+			</location>
+			<location id="bedroom">
+				<appliance>light_bedroom</appliance>
+				<relation>
+					1_1 = 190 lux;
+					1_2 = 275 lux;
+					1_3 = 370 lux;
+				</relation>
+			</location>
+			<location id="study">
+				<appliance>light_study</appliance>
+				<relation>
+					1_1 = 370 lux;
+				</relation>
+			</location>
+		</visual>
+		
+		<thermal>
+			<location id="hallway">
+				<appliance></appliance>
+			</location>
+			<location id="livingroom">
+				<appliance>current_AC_livingroom current_watercoldfan_livingroom</appliance>
+			</location>
+			<location id="kitchen">
+				<appliance></appliance>
+			</location>
+			<location id="bedroom">
+				<appliance>current_AC_bedroom</appliance>
+			</location>
+			<location id="study">
+				<appliance></appliance>
+			</location>
+		</thermal>
+	</comfort_table>
+</metaData>

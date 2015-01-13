@@ -1,0 +1,4 @@
+on_3 off off off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Wed Feb 13 22:37:33 CST 2013
+on_3 off off off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Wed Feb 13 22:37:39 CST 2013
+on_3 off off off off off off standby off standby on off off standby standby standby off standby off off off off off off #NoActivity @Wed Feb 13 22:40:50 CST 2013
+on_3 off off off off off off standby off standby on off off standby standby standby off standby off off on_1 off off off #WatchingTV @Wed Feb 13 22:42:01 CST 2013

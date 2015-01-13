@@ -1,0 +1,984 @@
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:04 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:05 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:06 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:07 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:08 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:09 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:10 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:11 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:12 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:13 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:14 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:15 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:16 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:17 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:18 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:19 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:20 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:21 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:23 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:24 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:25 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:26 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:27 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:28 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:29 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:30 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:31 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:32 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:33 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:34 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:35 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:36 CST 2013
+on_99_0 off on_86 off off off off standby off standby off off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:36 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:37 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 19:59:39 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off off off #NoActivity @Thu Dec 19 19:59:40 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 19:59:41 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 19:59:42 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 19:59:43 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Dec 19 19:59:45 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Dec 19 19:59:46 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Dec 19 19:59:47 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Dec 19 19:59:48 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Dec 19 19:59:49 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 19:59:50 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 19:59:50 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 19:59:51 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 19:59:52 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off on_1 #NoActivity @Thu Dec 19 19:59:53 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 19:59:55 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 19:59:55 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 19:59:56 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 19:59:58 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 19:59:59 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 20:00:00 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 20:00:01 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 20:00:02 CST 2013
+on_99_0 off on_86 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Thu Dec 19 20:00:03 CST 2013
+on_99_0 off on_86 off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:07 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:22 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:23 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:24 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:25 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:26 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:27 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:28 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:29 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:30 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:31 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:32 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:33 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:34 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:35 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:36 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:38 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:38 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:39 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:40 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:41 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:42 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:43 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:44 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:47 CST 2013
+on_99_0 off off off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Thu Dec 19 20:00:48 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:00:53 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:00:53 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:00:54 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:00:55 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:00:57 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:00:58 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:00:59 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:01:00 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_3 off off off #Reading WatchingTV @Thu Dec 19 20:01:01 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 20:01:04 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 20:01:04 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 20:01:05 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 20:01:07 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 off standby standby standby off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 20:01:08 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:13 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:15 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:17 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:18 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:18 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:20 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:21 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:22 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:23 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:24 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:25 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:26 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:27 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:28 CST 2013
+on_99_0 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:30 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:30 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:32 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:33 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:34 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:35 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:36 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:36 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:37 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:38 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:39 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:40 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:41 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:42 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:44 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Thu Dec 19 20:01:44 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:45 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:46 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:48 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:49 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:49 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:50 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:51 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:53 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:53 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:55 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:56 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:57 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:58 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:01:59 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:02:00 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_3 off off off #PlayingKinect Reading @Thu Dec 19 20:02:00 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:02 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:03 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:03 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:04 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:05 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:07 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:08 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:09 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:09 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:10 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:11 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:12 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:13 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:14 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:15 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:16 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:18 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:19 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:20 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:21 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:22 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:23 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:24 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:25 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:26 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:27 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:28 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:30 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:30 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:31 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:32 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:33 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:34 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:35 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:36 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:37 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:38 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:39 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:40 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:42 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:43 CST 2013
+on_99_0 off off off off off off standby off standby standby on_1 on standby standby standby off standby off off on_4 off off off #PlayingKinect Reading @Thu Dec 19 20:02:44 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_5 off off off #PlayingKinect @Thu Dec 19 20:02:48 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_5 off off off #PlayingKinect @Thu Dec 19 20:02:49 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_5 off off off #PlayingKinect @Thu Dec 19 20:02:50 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:02:52 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:02:53 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:02:53 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:02:54 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:02:55 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:02:56 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:02:57 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:02:58 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:02:59 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:00 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:03 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:04 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:05 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:06 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:06 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:08 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:08 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:10 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:12 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:13 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:14 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:15 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:16 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:17 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:18 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:19 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:20 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:21 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:22 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:23 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_2 off off off #PlayingKinect @Thu Dec 19 20:03:24 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:25 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:26 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:27 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:28 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:29 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:30 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:31 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:32 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:33 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:34 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:35 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:36 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:03:37 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:03:38 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:03:39 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:03:40 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_4 off off off #PlayingKinect @Thu Dec 19 20:03:41 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:42 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:43 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:44 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_3 off off off #PlayingKinect @Thu Dec 19 20:03:45 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off off off #PlayingKinect @Thu Dec 19 20:03:46 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off off off #PlayingKinect @Thu Dec 19 20:03:46 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off on_1 off #PlayingKinect @Thu Dec 19 20:03:47 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off on_1 off #PlayingKinect @Thu Dec 19 20:03:48 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off on_1 off #PlayingKinect @Thu Dec 19 20:03:50 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off on_1 off #PlayingKinect @Thu Dec 19 20:03:51 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off on_1 off #PlayingKinect @Thu Dec 19 20:03:52 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off on_1 off #PlayingKinect @Thu Dec 19 20:03:54 CST 2013
+on_99_0 off off off off off off standby off standby standby standby on standby standby standby off standby off off on_1 off on_1 off #PlayingKinect @Thu Dec 19 20:03:54 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 20:03:58 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 20:03:59 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 20:04:00 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby standby standby standby off standby off off on_1 off on_1 off #NoActivity @Thu Dec 19 20:04:02 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:06 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:21 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:22 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:23 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:24 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:25 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:26 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:27 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:28 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:29 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:30 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:31 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:33 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:33 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:34 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:36 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:04:37 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:41 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:42 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:43 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:44 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:45 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:47 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:48 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:49 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:49 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:50 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:51 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:52 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:53 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:54 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:55 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby on standby standby off standby off off on_2 off on_1 off #PreparingFood WatchingTV @Thu Dec 19 20:04:58 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:02 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:03 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:04 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:05 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:06 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:07 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:08 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:10 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:11 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:12 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:13 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:14 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:15 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:16 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:18 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:18 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:19 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:20 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:22 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:23 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:24 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:25 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off on_1 off #PreparingFood @Thu Dec 19 20:05:26 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 20:05:30 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 20:05:31 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 20:05:32 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 20:05:33 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 20:05:34 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 20:05:35 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 20:05:36 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby off standby off off on_1 off off on_1 #NoActivity @Thu Dec 19 20:05:37 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:05:42 CST 2013
+on_99_0 off off on_99 off off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:26 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:27 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:28 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:29 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:30 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:31 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:36 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:37 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:06:42 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:47 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:52 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:55 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:06:59 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:00 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:01 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:02 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:04 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:06 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:07 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:10 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby off standby standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:11 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:33 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:35 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:36 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:37 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:38 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:39 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:41 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:41 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:43 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:44 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:45 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:46 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:47 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:48 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:49 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:50 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:51 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:52 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:54 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:55 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:56 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:57 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:58 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:07:59 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Studying @Thu Dec 19 20:08:00 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:01 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:02 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:02 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:03 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:04 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:06 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:07 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:07 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:08 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:09 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:10 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:12 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:13 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:13 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:14 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:16 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:17 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:18 CST 2013
+off off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_2 #Studying @Thu Dec 19 20:08:19 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:23 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:24 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:26 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:34 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:42 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:47 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:52 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:55 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_1 off off on_1 #Reading Studying @Thu Dec 19 20:08:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_2 off off on_1 #Reading Studying @Thu Dec 19 20:08:57 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_2 off off on_1 #Reading Studying @Thu Dec 19 20:08:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby off on_1 standby standby standby standby on_1 standby off off on_2 off off on_1 #Reading Studying @Thu Dec 19 20:08:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:04 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:05 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:06 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:07 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:09 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:10 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:12 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:13 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:14 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:15 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:16 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:17 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:18 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:19 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_4 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:20 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_4 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:21 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_4 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:22 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_4 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:23 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_4 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:24 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:26 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:27 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_3 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:28 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:29 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:30 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:31 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:32 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:34 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:36 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:37 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:42 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_1 #WatchingTV Studying @Thu Dec 19 20:09:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_2 #WatchingTV Studying @Thu Dec 19 20:09:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_2 #WatchingTV Studying @Thu Dec 19 20:09:55 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_2 #WatchingTV Studying @Thu Dec 19 20:09:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_2 #WatchingTV Studying @Thu Dec 19 20:09:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_2 #WatchingTV Studying @Thu Dec 19 20:09:59 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 standby off off on_2 off off on_2 #WatchingTV Studying @Thu Dec 19 20:10:00 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:09 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:13 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:13 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:14 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:15 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:16 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:17 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:18 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:19 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:20 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:21 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:23 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:24 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:10:26 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:10:30 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:10:32 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:10:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:37 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:47 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:57 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:10:59 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:00 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:01 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:02 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:04 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:05 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:06 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:07 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:09 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:10 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:12 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:13 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:14 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:14 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:15 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:16 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:17 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:18 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:20 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:20 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:11:21 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:26 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:27 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:28 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:30 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:31 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:32 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:34 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:36 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_1 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:47 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:55 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:57 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:11:59 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:00 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:01 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:04 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:05 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:06 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:07 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:09 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:10 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:12 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:13 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:14 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:15 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:16 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:17 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:18 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:19 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:20 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:21 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:22 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:23 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:26 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:26 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:28 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:29 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:30 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:31 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:32 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:32 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:34 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:36 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:37 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:42 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:42 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_3 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:47 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:55 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:57 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:12:59 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:00 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:01 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:02 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:04 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:05 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:06 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:07 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:09 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:09 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:10 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:12 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:13 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:14 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:16 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:17 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:18 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:19 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:20 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:21 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:22 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:24 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:24 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:29 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:30 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:31 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:32 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:34 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:36 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:37 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:42 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:47 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby on standby standby standby standby standby on_1 on off off on_2 off off on_2 #WatchingTV UsingNoteBook @Thu Dec 19 20:13:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:13:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:13:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:13:57 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:13:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:13:59 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:00 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:01 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:02 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:04 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:05 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:06 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:07 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:09 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:10 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:12 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:13 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:15 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:15 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:16 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:17 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:18 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:19 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:20 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:21 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:22 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:23 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:27 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:28 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:29 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:31 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:34 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:36 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:37 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:42 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_2 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:52 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off off on_2 #UsingNoteBook @Thu Dec 19 20:14:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off on_1 on_2 #UsingNoteBook @Thu Dec 19 20:14:55 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off on_1 on_2 #UsingNoteBook @Thu Dec 19 20:14:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off on_1 on_2 #UsingNoteBook @Thu Dec 19 20:14:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby on_1 on off off on_1 off on_1 on_2 #UsingNoteBook @Thu Dec 19 20:14:59 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby on standby standby on_1 on off off on_1 off on_1 on_2 #PreparingFood UsingNoteBook @Thu Dec 19 20:15:03 CST 2013
+on_99_0 off off on_99 on_99 off off standby off standby standby standby standby on standby standby on_1 on off off on_1 off off on_3 #UsingNoteBook @Thu Dec 19 20:15:21 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:15:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 off off on_1 #UsingNoteBook @Thu Dec 19 20:15:37 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:42 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_1 off on_1 #UsingNoteBook @Thu Dec 19 20:15:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_1 off on_1 #UsingNoteBook @Thu Dec 19 20:15:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_1 off on_1 #UsingNoteBook @Thu Dec 19 20:15:47 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_1 off on_1 #UsingNoteBook @Thu Dec 19 20:15:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_1 off on_1 #UsingNoteBook @Thu Dec 19 20:15:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:52 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:54 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:57 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:15:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:00 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:01 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:02 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:03 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:04 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:05 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:06 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:08 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:09 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:11 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on off off on_1 on_2 off on_1 #UsingNoteBook @Thu Dec 19 20:16:12 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:16 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:17 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:18 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:19 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:20 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:22 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:23 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:24 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:25 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:26 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:27 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:28 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:29 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:30 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:30 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:31 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_2 #Sleeping UsingNoteBook @Thu Dec 19 20:16:33 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:34 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:35 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:36 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:37 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:38 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:39 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:40 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:41 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:43 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:44 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:45 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:46 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:47 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:48 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:49 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:50 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:51 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:52 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:53 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:55 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:56 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_2 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:57 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off on on_1 off on_1 on_1 off on_1 #Sleeping UsingNoteBook @Thu Dec 19 20:16:58 CST 2013
+on_99_0 off off off on_99 off off standby off standby standby standby standby standby standby standby off standby on_1 off on_1 on_1 off on_1 #Sleeping @Thu Dec 19 20:17:02 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off on_1 on_1 off on_1 #Sleeping @Thu Dec 19 20:17:18 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off on_1 on_1 off on_1 #Sleeping @Thu Dec 19 20:17:19 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off on_1 on_1 off on_1 #Sleeping @Thu Dec 19 20:17:20 CST 2013
+on_99_0 off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off off #AllSleeping @Thu Dec 19 20:17:24 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:46 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:47 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:48 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:49 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:50 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:51 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:54 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:54 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:55 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:57 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:58 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:17:59 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:18:00 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_2 off off #AllSleeping @Thu Dec 19 20:18:01 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off off #AllSleeping @Thu Dec 19 20:18:03 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:04 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:05 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:06 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:07 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:08 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 on_1 on_1 #AllSleeping @Thu Dec 19 20:18:09 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 on_1 off #AllSleeping @Thu Dec 19 20:18:10 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 on_1 off #AllSleeping @Thu Dec 19 20:18:11 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 on_1 off #AllSleeping @Thu Dec 19 20:18:11 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off off #AllSleeping @Thu Dec 19 20:18:14 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off off #AllSleeping @Thu Dec 19 20:18:15 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off off #AllSleeping @Thu Dec 19 20:18:16 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off off #AllSleeping @Thu Dec 19 20:18:16 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off off #AllSleeping @Thu Dec 19 20:18:17 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:19 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:20 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:21 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:22 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:23 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:24 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off on_1 off on_1 #AllSleeping @Thu Dec 19 20:18:25 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:30 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:31 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:32 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:33 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:34 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:35 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:36 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:36 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:37 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:38 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:39 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:41 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:42 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:43 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:44 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:45 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:46 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:47 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:48 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:49 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:51 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:52 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:53 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:54 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:55 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:56 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:57 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:58 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:59 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_2 #NoActivity @Thu Dec 19 20:18:59 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:01 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:02 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:03 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:04 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:05 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:05 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:06 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:07 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:08 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:09 CST 2013
+off off off off off off off standby off standby standby standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:10 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:10 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:11 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:13 CST 2013
+off off off off off off off standby off standby off standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:14 CST 2013
+off off off off off off off standby off standby off standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:15 CST 2013
+off off off off off off off standby off standby off standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:16 CST 2013
+off off off off off off off standby off standby off standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:17 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:18 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:19 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:19 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:20 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off on_1 #NoActivity @Thu Dec 19 20:19:21 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off off off off off #NoActivity @Thu Dec 19 20:19:23 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_1 off off off #NoActivity @Thu Dec 19 20:19:24 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_1 off off off #NoActivity @Thu Dec 19 20:19:25 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_1 off off on_1 #NoActivity @Thu Dec 19 20:19:26 CST 2013
+off off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:30 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:52 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:53 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:54 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:55 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:56 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:57 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:58 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:19:59 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:00 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:01 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:03 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:04 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:05 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:06 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:07 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:08 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:09 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:10 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:12 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:13 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:14 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:14 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:15 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:17 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:18 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:19 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:20 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:21 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:22 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:23 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:24 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:25 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:26 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:27 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:28 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:29 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:30 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:31 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:32 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:34 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:34 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:35 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:36 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:38 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:39 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:40 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:41 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:42 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:43 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:44 CST 2013
+on_99_46 off off off off off off standby off standby on standby standby standby standby standby off standby on_1 off on_2 off off off #WatchingTV @Thu Dec 19 20:20:45 CST 2013

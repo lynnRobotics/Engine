@@ -1,8 +1,0 @@
-@relation studyroom
-
-@attribute intensity NUMERIC
-@attribute current_PC_studyroom NUMERIC
-@attribute class {UsingPC}
-
-@data
-1.73,0,UsingPC

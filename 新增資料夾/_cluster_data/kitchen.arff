@@ -1,9 +1,0 @@
-@relation kitchen
-
-@attribute intensity NUMERIC
-@attribute current_refi_kitchen NUMERIC
-@attribute current_microwave_kitchen NUMERIC
-@attribute class {PreparingFood}
-
-@data
-1.73,2,0,PreparingFood

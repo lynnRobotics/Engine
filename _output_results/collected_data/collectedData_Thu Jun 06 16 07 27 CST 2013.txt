@@ -1,0 +1,26 @@
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:07:50 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:07:52 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:07:54 CST 2013
+on_2 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:07:56 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:07:58 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:08:00 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Jun 06 16:08:02 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Jun 06 16:08:04 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Jun 06 16:08:06 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Jun 06 16:08:08 CST 2013
+on_3 off off off on_1 off off standby off off standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Jun 06 16:08:10 CST 2013
+on_3 off off off on_1 off off standby off off standby off off on standby standby off standby off off off off on_1 off #PreparingFood @Thu Jun 06 16:08:16 CST 2013
+off off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:08:52 CST 2013
+on_2 off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:09:13 CST 2013
+on_3 off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:09:28 CST 2013
+on_3 off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:09:30 CST 2013
+on_3 off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:09:32 CST 2013
+on_3 off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:09:34 CST 2013
+on_3 off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:09:36 CST 2013
+on_3 off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:09:38 CST 2013
+on_3 off off on_1 off off off standby off off on off off standby standby standby off standby off off on_1 off on_1 off #PreparingFood WatchingTV @Thu Jun 06 16:09:40 CST 2013
+on_3 off off on_1 off off off standby off off on off off standby standby standby on_1 standby off off off off on_1 on_1 #PreparingFood Studying @Thu Jun 06 16:09:50 CST 2013
+off off off on_1 on_1 off off standby off off on off off standby standby standby on_1 standby off off off off on_1 on_1 #PreparingFood Studying @Thu Jun 06 16:10:22 CST 2013
+off off off on_1 on_1 off off standby off off standby off off standby standby standby on_1 standby off off off off on_1 on_1 #PreparingFood Studying @Thu Jun 06 16:10:37 CST 2013
+off off off on_1 on_1 off off standby off off on off off standby standby standby on_1 standby off off off off on_1 on_1 #PreparingFood Studying @Thu Jun 06 16:10:39 CST 2013
+off off off on_1 on_1 off off standby off off on off off standby standby standby on_1 standby off off off off on_1 on_1 #PreparingFood Studying @Thu Jun 06 16:10:54 CST 2013

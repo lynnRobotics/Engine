@@ -12,7 +12,7 @@ public class RelationTable{
 	
 	
 	public ArrayList<AppNode> appList;
-	public double intensity;;
+	public double intensity;
 	
 	public RelationTable(){
 		appList = new ArrayList<AppNode>();

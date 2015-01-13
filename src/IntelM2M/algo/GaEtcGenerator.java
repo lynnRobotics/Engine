@@ -24,8 +24,8 @@ public class GaEtcGenerator {
 	public GaEtcGenerator(GaGenerator GA)
 	{
 		try{
-			File dir = new File(".\\_weka_training_data");
-			insts = new Instances(new FileReader(".\\_weka_training_data\\" + dir.list()[0]));
+			File dir = new File("./_weka_training_data");
+			insts = new Instances(new FileReader("./_weka_training_data/" + dir.list()[0]));
 
 		}catch(Exception ex){}
 		actAppList=buildGaActAppList(GA,EnvStructure.actAppList);	
@@ -245,7 +245,7 @@ public class GaEtcGenerator {
 	
 	public void setImplicit(String etcListKey, String activity, EditableBayesNet classifier){
 		try{
-			Instances actInsts = new Instances(new FileReader(".\\_weka_training_data\\" + activity + ".arff"));
+			Instances actInsts = new Instances(new FileReader("./_weka_training_data/" + activity + ".arff"));
 			int allLength = actInsts.numInstances();
 			
 			//extract on_activity

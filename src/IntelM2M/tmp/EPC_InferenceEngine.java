@@ -49,7 +49,7 @@ public class EPC_InferenceEngine extends LogicNode
 {
     private Log log = LogFactory.getLog(EPC_InferenceEngine.class.getName());
     private final static JsonBuilder json = MessageUtils.jsonBuilder();
-    private String  output_file_path=".\\_output_results\\";
+    private String  output_file_path="./_output_results/";
    
     /*For Weka*/
     /*這邊用static class variable包起*/
@@ -115,7 +115,7 @@ public class EPC_InferenceEngine extends LogicNode
 	    		if(rebuild)
 	    		{
 	    				    			
-	    			insts = new Instances(new FileReader(".\\_weka_training_data\\" + activityList[index]+".arff"));
+	    			insts = new Instances(new FileReader("./_weka_training_data/" + activityList[index]+".arff"));
 	    			int aa=insts.numAttributes();
 	    			
 	    			insts.setClassIndex(insts.numAttributes() - 1); //the position of class in attribute
@@ -129,20 +129,20 @@ public class EPC_InferenceEngine extends LogicNode
 	    			attSelected = attSelector.reduceDimensionality(insts);    			
 	    			////build
 	    			classifier[index].buildClassifier(attSelected);
-	    			SerializationHelper.write(".\\_weka_output_data\\" + activityList[index].substring(0, activityList[index].length() - 5) + ".model", classifier);
+	    			SerializationHelper.write("./_weka_output_data/" + activityList[index].substring(0, activityList[index].length() - 5) + ".model", classifier);
 	    			classifier[index].setOptions(Utils.splitOptions(options));    			
 	    			//output
-	    			BufferedWriter writer = new BufferedWriter(new FileWriter(".\\_weka_output_data\\selected_" + activityList[index]));
+	    			BufferedWriter writer = new BufferedWriter(new FileWriter("./_weka_output_data/selected_" + activityList[index]));
 	    			writer.write(attSelected.toString());
 	    			writer.flush();
-	    			writer = new BufferedWriter(new FileWriter(".\\_weka_output_data\\" + activityList[index].substring(0, activityList[index].length() - 5) + ".xml"));
+	    			writer = new BufferedWriter(new FileWriter("./_weka_output_data/" + activityList[index].substring(0, activityList[index].length() - 5) + ".xml"));
 	    			writer.write(classifier[index].toXMLBIF03());
 	    			writer.flush();
 	    			writer.close();
 	    		}
 	    		else //read models
 	    		{
-	    			attSelected = new Instances(new FileReader(".\\_weka_output_data\\selected_" + activityList[index]));
+	    			attSelected = new Instances(new FileReader("./_weka_output_data/selected_" + activityList[index]));
 	    			attSelected.setClassIndex(attSelected.numAttributes() - 1);
 	    			classifier[index] = new EditableBayesNet(attSelected);
 	    			classifier[index].buildClassifier(attSelected);
@@ -163,10 +163,10 @@ public class EPC_InferenceEngine extends LogicNode
     	for(String room:roomList){
     		try
 	    	{
-    			BufferedWriter writer = new BufferedWriter(new FileWriter(".\\_cluster_data\\" + room + ".arff"));
+    			BufferedWriter writer = new BufferedWriter(new FileWriter("./_cluster_data/" + room + ".arff"));
     			out.writeArff(writer, room, etcList);
     			
-	    		File f = new File(".\\_cluster_data\\" + room + ".arff");
+	    		File f = new File("./_cluster_data/" + room + ".arff");
 	        	Instances train = new Instances(new BufferedReader(new FileReader(f)));
 	        	AddCluster ac = new AddCluster();  
 	        	SimpleKMeans skm = new SimpleKMeans(); 
@@ -177,10 +177,10 @@ public class EPC_InferenceEngine extends LogicNode
 	    		Instances clusterCenter = skm.getClusterCentroids();
 	    		
 	    		//output
-	    		 writer = new BufferedWriter(new FileWriter(".\\_cluster_data\\" + room + "_clustered.arff"));
+	    		 writer = new BufferedWriter(new FileWriter("./_cluster_data/" + room + "_clustered.arff"));
 	    		writer.write(CI.toString());
 	    		writer.flush();
-	    		writer = new BufferedWriter(new FileWriter(".\\_cluster_data\\" + room + "_centroids.arff"));
+	    		writer = new BufferedWriter(new FileWriter("./_cluster_data/" + room + "_centroids.arff"));
 	    		writer.write(clusterCenter.toString());
 	    		writer.flush();
 	    		writer.close();

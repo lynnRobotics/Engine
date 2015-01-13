@@ -43,18 +43,18 @@ public class Epcieold extends LogicNode{
 	  GaGenerator GA= new GaGenerator();
 	  text2Arff CVT = new text2Arff();
 
-	  String resultPath=".\\_output_results\\_testing_result.txt";
-	  String gaResultPath=".\\_output_results\\ga_testing_result.txt";
+	  String resultPath="./_output_results/_testing_result.txt";
+	  String gaResultPath="./_output_results/ga_testing_result.txt";
 
 
 	  /*
-	   * String rawTrainingDataPath= ".\\_input_data\\CrossValidate\\cv_all_data3.txt";
-	  	 String testingDataPath=	".\\_input_data\\iros_test_data.txt";
+	   * String rawTrainingDataPath= "./_input_data/CrossValidate/cv_all_data3.txt";
+	  	 String testingDataPath=	"./_input_data/iros_test_data.txt";
 	  */
 	  
 	  /*simulator*/
-	   String rawTrainingDataPath= ".\\_input_data\\simulator\\simulator_trainingdata2.txt";
-	   String testingDataPath=	".\\_input_data\\simulator\\simple_test_data.txt";
+	   String rawTrainingDataPath= "./_input_data/simulator/simulator_trainingdata2.txt";
+	   String testingDataPath=	"./_input_data/simulator/simple_test_data.txt";
 
 
 	
@@ -80,10 +80,10 @@ public class Epcieold extends LogicNode{
     	CVT.convertGaRawToArff(GA, trainPath);
 		/*build model*/
 		DBN.buildARModel(true); //build AR model	
-		ETC.buildAllETC(DBN.classifier,".\\_output_results\\etc.txt");//build ETC
+		ETC.buildAllETC(DBN.classifier,"./_output_results/etc.txt");//build ETC
 		/*build sMatrix*/
-		ETC.buildSMatrix(".\\_output_results\\sMatrix.txt");
-		//ETC.buildSMatrix(DBN.classifier,".\\_output_results\\sMatrix.txt");
+		ETC.buildSMatrix("./_output_results/sMatrix.txt");
+		//ETC.buildSMatrix(DBN.classifier,"./_output_results/sMatrix.txt");
 		//initial model 
 		DBN.allSetDefaultValue(true);   
 
@@ -91,7 +91,7 @@ public class Epcieold extends LogicNode{
 		/*build GA Model*/
 		GaDBN.buildGaModel(GA,true);
 		GaEtcGenerator GAETC = new GaEtcGenerator(GA);
-		GAETC.buildAllETC(GaDBN.classifier, ".\\_output_results\\ga_etc.txt",GA);
+		GAETC.buildAllETC(GaDBN.classifier, "./_output_results/ga_etc.txt",GA);
 		GaDBN.allSetDefaultValue(GA);
 		/*Testing*/
 		GaDBN.testing(GA, testPath, gaResultPath);
@@ -127,13 +127,13 @@ public class Epcieold extends LogicNode{
 	    	/*build GA Model*/
 			GaDBN.buildGaModel(GA,true);
 			GaEtcGenerator GAETC = new GaEtcGenerator(GA);
-			GAETC.buildAllETC(GaDBN.classifier, ".\\_output_results\\ETC\\round"+round+"_ga_etc_"+i+".txt",GA);
+			GAETC.buildAllETC(GaDBN.classifier, "./_output_results/ETC/round"+round+"_ga_etc_"+i+".txt",GA);
 			
 			GaEscGenerator GAESC=new GaEscGenerator(GA,true);
 			if(i==1)
-				GAESC.buildAllESC(GaDBN.classifier,  ".\\_output_results\\ESC\\round"+round+"_ga_esc_"+i+".txt", GA, null, null);
+				GAESC.buildAllESC(GaDBN.classifier,  "./_output_results/ESC/round"+round+"_ga_esc_"+i+".txt", GA, null, null);
 			else
-				GAESC.buildAllESC(GaDBN.classifier,  ".\\_output_results\\ESC\\round"+round+"_ga_esc_"+i+".txt", GA, GaGeneratorList.get(0), GaEscList.get(0));
+				GAESC.buildAllESC(GaDBN.classifier,  "./_output_results/ESC/round"+round+"_ga_esc_"+i+".txt", GA, GaGeneratorList.get(0), GaEscList.get(0));
 			GaDBN.allSetDefaultValue(GA);
 			/*record hga*/
 			GaGeneratorList.add(GA);
@@ -144,7 +144,7 @@ public class Epcieold extends LogicNode{
 			
 	    }
 	    /*寫出 hga結構*/
-		GaGenerator.writeHGA (".\\_output_results\\hga.txt", GaGeneratorList);
+		GaGenerator.writeHGA ("./_output_results/hga.txt", GaGeneratorList);
 		/*Testing*/
 		ArrayList<Map <String,ExpResult>> kExpResult=HgaTest.hgaTesting2(GaGeneratorList, GaDbnList, testPath);
 		return kExpResult;
@@ -178,9 +178,9 @@ public class Epcieold extends LogicNode{
 			GaDBN.buildGaModel(GA,true);		
 			GaEscGenerator GAESC=new GaEscGenerator(GA,true);
 			if(i==1)
-				GAESC.buildAllESC(GaDBN.classifier,  ".\\_output_results\\ESC\\round"+round+"_ga_esc_"+i+".txt", GA, null, null);
+				GAESC.buildAllESC(GaDBN.classifier,  "./_output_results/ESC/round"+round+"_ga_esc_"+i+".txt", GA, null, null);
 			else
-				GAESC.buildAllESC(GaDBN.classifier,  ".\\_output_results\\ESC\\round"+round+"_ga_esc_"+i+".txt", GA, GaGeneratorList.get(0), GaEscList.get(0));
+				GAESC.buildAllESC(GaDBN.classifier,  "./_output_results/ESC/round"+round+"_ga_esc_"+i+".txt", GA, GaGeneratorList.get(0), GaEscList.get(0));
 			GaDBN.allSetDefaultValue(GA);
 			/*record hga*/
 			GaGeneratorList.add(GA);
@@ -189,7 +189,7 @@ public class Epcieold extends LogicNode{
 
 	    }
 	    /*寫出 hga結構*/
-		GaGenerator.writeHGA (".\\_output_results\\hga.txt", GaGeneratorList);
+		GaGenerator.writeHGA ("./_output_results/hga.txt", GaGeneratorList);
 		/*Testing*/
 		IrosTest test=new IrosTest();
 		test.irosTesting(GaGeneratorList, GaDbnList,GaEscList, testPath);		
@@ -221,9 +221,9 @@ public class Epcieold extends LogicNode{
 			GaDBN.buildGaModel(GA,true);		
 			GaEscGenerator GAESC=new GaEscGenerator(GA,true);
 			if(i==1)
-				GAESC.buildAllESC(GaDBN.classifier,  ".\\_output_results\\ESC\\round"+round+"_ga_esc_"+i+".txt", GA, null, null);
+				GAESC.buildAllESC(GaDBN.classifier,  "./_output_results/ESC/round"+round+"_ga_esc_"+i+".txt", GA, null, null);
 			else
-				GAESC.buildAllESC(GaDBN.classifier,  ".\\_output_results\\ESC\\round"+round+"_ga_esc_"+i+".txt", GA, GaGeneratorList.get(0), GaEscList.get(0));
+				GAESC.buildAllESC(GaDBN.classifier,  "./_output_results/ESC/round"+round+"_ga_esc_"+i+".txt", GA, GaGeneratorList.get(0), GaEscList.get(0));
 			GaDBN.allSetDefaultValue(GA);
 			/*record hga*/
 			GaGeneratorList.add(GA);
@@ -232,7 +232,7 @@ public class Epcieold extends LogicNode{
 
 	    }
 	    /*寫出 hga結構*/
-		GaGenerator.writeHGA (".\\_output_results\\hga.txt", GaGeneratorList);
+		GaGenerator.writeHGA ("./_output_results/hga.txt", GaGeneratorList);
 		/*Testing*/
 		
 
@@ -251,8 +251,8 @@ public class Epcieold extends LogicNode{
     	CVT.convertGaRawToArff(GA, trainPath);
 		/*build model*/
 		DBN.buildARModel(true); //build AR model	
-		ETC.buildAllETC(DBN.classifier,".\\_output_results\\etc.txt");//build ETC
-		ETC.buildSMatrix( ".\\_output_results\\sMatrix.txt");
+		ETC.buildAllETC(DBN.classifier,"./_output_results/etc.txt");//build ETC
+		ETC.buildSMatrix( "./_output_results/sMatrix.txt");
 	    DBN.allSetDefaultValue(true); //initial model    
 	    /*clustering For each room's activity*/
 		//KM.runClustering(3);	
@@ -260,7 +260,7 @@ public class Epcieold extends LogicNode{
 		/*build GA Model*/
 		GaDBN.buildGaModel(GA,true);
 		GaEtcGenerator GAETC = new GaEtcGenerator(GA);
-		GAETC.buildAllETC(GaDBN.classifier, ".\\_output_results\\ga_etc.txt",GA);
+		GAETC.buildAllETC(GaDBN.classifier, "./_output_results/ga_etc.txt",GA);
 		GaDBN.allSetDefaultValue(GA);
 
     }

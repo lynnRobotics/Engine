@@ -1,103 +1,104 @@
 package IntelM2M.epcie;
 
 import java.util.ArrayList;
-
-import s2h.platform.node.PlatformMessage;
+import java.util.Date;
+import java.util.Map;
 import s2h.platform.node.Sendable;
-
 import IntelM2M.epcie.classifier.GaDbnClassifier;
 import IntelM2M.epcie.erc.GaEscGenerator;
-import IntelM2M.func.CrossValidate;
 import IntelM2M.func.text2Arff;
-import IntelM2M.test.SimulatorTest;
 
 /**
  * EPCIE
- * @author Mao  (2012.06)
+ * 
+ * @author Mao (2012.06)
  */
 
 public class Epcie {
 
-
-		public ArrayList<GaGenerator> GaGeneratorList;
-		public ArrayList<GaDbnClassifier> GaDbnList ;	
-		public ArrayList<GaEscGenerator> GaEscList ;
-		
-		public GAinference gaInference;
-
-		static final Boolean retrain=false;
-		static final int trainLevel=5;
-	  
-	  /*simulator*/
-	   String rawTrainingDataPath= ".\\_input_data\\simulator\\simulator_trainingdata3.txt";
-		//String rawTrainingDataPath= ".\\_input_data\\simulator\\simulator_trainingdata4.txt";
-	   
-	   public Epcie()
-	    {
-			 GaGeneratorList=new ArrayList<GaGenerator>(); /*record GA¡@structure*/
-			 GaDbnList = new ArrayList<GaDbnClassifier>(); /*record DBN for each GA*/
-			 GaEscList = new ArrayList<GaEscGenerator>();  /*record ERC for each GA*/
-	    }
-	   public void buildModel(){
-
-		   
-		   
-		    for(int i=1;i<=trainLevel;i++){
-		    	/*build i layer GA*/
-			    GaGenerator GA= new GaGenerator(i);/*multiple GA at layer i*/
+	/* Some GA related information (I don't really understand)*/
+	public ArrayList<GaGenerator> GaGeneratorList;
+	public ArrayList<GaDbnClassifier> GaDbnList;
+	public ArrayList<GaEscGenerator> GaEscList;
 	
-			    if(i==1){
-			    	GA.buildFirstGaList();
-			    }
-			    else 
-		    	{
-			    	Boolean flag=GA.buildHGA(GaDbnList.get(i-2),GaGeneratorList.get(i-2),GaEscList.get(i-2),retrain);
-			    	if(!flag){
-			    		break;
-			    	}
-			    	         	
-		    	}
-			    /*convert training data for GA at layer i*/
-			    text2Arff.convertGaRawToArff(GA, rawTrainingDataPath);
-			    
-		    	/*build GA model*/
-			    GaDbnClassifier GaDBN = new GaDbnClassifier();
-				GaDBN.buildGaModel(GA,retrain);
-				
-				/*build GA¡@ERC¡@model*/
-				GaEscGenerator GAESC=new GaEscGenerator(GA,retrain);
-				if(i==1)
-					GAESC.buildAllESC(GaDBN.classifier,  ".\\_output_results\\ESC\\_ga_esc_"+i+".txt", GA, null, null);
-				else
-					GAESC.buildAllESC(GaDBN.classifier,  ".\\_output_results\\ESC\\_ga_esc_"+i+".txt", GA, GaGeneratorList.get(0), GaEscList.get(0));
-				
-				GaDBN.allSetDefaultValue(GA);
-				
-				/*record ERC, ith HGA, classifier */
-				GaGeneratorList.add(GA);
-				GaDbnList.add(GaDBN);
-				GaEscList.add(GAESC);
+	/* Used for inferring GA */
+	public GAinference gaInference;
+	
+	public ArrayList<String> currentActInferResultSet = new ArrayList<String>();
+	public ArrayList<String> previousActInferResultSet = new ArrayList<String>();
+	public ArrayList<String> previousActInferResultSetForReject = new ArrayList<String>();
+	public double duration;
+	public double threshold = 5;               // unit is second
+	public Date startTime = new Date();
+	static final Boolean retrain = false;     // Retrain or not
+	static final int trainLevel = 3;          // Level of group activity
 
-		    }
+	/* For simulator usage */
+	// String rawTrainingDataPath = "./_input_data/simulator/simulator_trainingdata3.txt"; //using this
+	// String rawTrainingDataPath = "./_input_data/simulator/simulator_trainingdata4.txt";
 
-		    
-		    /*¼g¥X hgaµ²ºc*/
-			GaGenerator.writeHGA (".\\_output_results\\hga.txt", GaGeneratorList);
+	/* For real-time usage */
+	String rawTrainingDataPath = "./_input_data/BL313/trainingData_test14.txt";
 
-	   }
-	   
-	   public void gaInferenceForSimulator(String read){
-			/*Infer GA*/
-			gaInference= new GAinference(GaGeneratorList,GaDbnList,GaEscList,read);
-			gaInference.buildInferResult();
+	public Epcie(String threshold) {
+		this.threshold = Double.parseDouble(threshold);  // Set threshold
+		GaGeneratorList = new ArrayList<GaGenerator>();  // Record GA structure 
+		GaDbnList = new ArrayList<GaDbnClassifier>();    // Record DBN for each GA 
+		GaEscList = new ArrayList<GaEscGenerator>();     // Record ERC for each GA 
+	}
+
+	/* Train and build the model (I don't really understand)*/
+	public void buildModel() {
+		// build i layer GA
+		for (int i = 1; i <= trainLevel; i++) {
+			GaGenerator GA = new GaGenerator(i);  // Multiple GA at layer i
 			
-	   }
-	   
-	   public void gaInferenceForRealTime(PlatformMessage message, Sendable sender){
-			/*Infer GA*/
-			gaInference= new GAinference(GaGeneratorList,GaDbnList,GaEscList);
-			gaInference.buildInferResultForRealTime(message, sender);
+			if (i == 1) GA.buildFirstGaList();
+			else {
+				Boolean flag = GA.buildHGA(GaDbnList.get(i - 2), GaGeneratorList.get(i - 2), GaEscList.get(i - 2), retrain);
+				if (!flag) break;
+			}
 			
-	   }
+			// Convert training data for GA at layer i
+			text2Arff.convertGaRawToArff(GA, rawTrainingDataPath);
 
+			// Build GA model
+			GaDbnClassifier GaDBN = new GaDbnClassifier();
+			GaDBN.buildGaModel(GA, retrain);
+
+			// Build GA¡@ERC¡@model
+			GaEscGenerator GAESC = new GaEscGenerator(GA, retrain);
+			if (i == 1)
+				GAESC.buildAllESC(GaDBN.classifier, "./_output_results/ESC/_ga_esc_" + i + ".txt", GA, null, null);
+			else
+				GAESC.buildAllESC(GaDBN.classifier, "./_output_results/ESC/_ga_esc_" + i + ".txt", GA, GaGeneratorList.get(0), GaEscList.get(0));
+
+			GaDBN.allSetDefaultValue(GA);
+
+			// Record ERC, ith HGA, classifier
+			GaGeneratorList.add(GA);
+			GaDbnList.add(GaDBN);
+			GaEscList.add(GAESC);
+		}
+		// Write the structure of HGA (Hierarchical Group Activity)
+		GaGenerator.writeHGA("./_output_results/hga.txt", GaGeneratorList);
+	}
+
+	/* GA inference for simulator */
+	public void gaInferenceForSimulator(String read) {
+		gaInference = new GAinference(GaGeneratorList, GaDbnList, GaEscList, read);
+		gaInference.buildInferResult();
+	}
+
+	/* GA inference for real-time */
+	public void gaInferenceForRealTime(Map<String, String> sensorReading) {
+		gaInference = new GAinference(GaGeneratorList, GaDbnList, GaEscList);
+		gaInference.buildInferResultForRealTime_New(sensorReading);
+	}
+	
+	/* GA inference for real-time (new version), Human number is now considered */
+	public void gaInferenceForRealTime_new(Map<String, String> sensorReading, int humanNumber) {
+		gaInference = new GAinference(GaGeneratorList, GaDbnList, GaEscList, humanNumber);
+		gaInference.buildInferResultForRealTime_New(sensorReading);
+	}
 }

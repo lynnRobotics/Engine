@@ -997,7 +997,7 @@ public class ExpRecorder {
 	
 		
 		try{
-			FileWriter writer = new FileWriter(new File(".\\_output_results\\debug.txt"),false);
+			FileWriter writer = new FileWriter(new File("./_output_results/debug.txt"),false);
 			for(AppNode app:standbyList){
 			
 				AppNode rawApp=appList.get(app.appName);
@@ -1051,7 +1051,7 @@ public class ExpRecorder {
 	
 	public void writeOutARResult(){
 		try{
-			FileWriter writer = new FileWriter(new File(".\\_output_results\\arResult.txt"),false);
+			FileWriter writer = new FileWriter(new File("./_output_results/arResult.txt"),false);
 		
 			
 	
@@ -1232,7 +1232,7 @@ public class ExpRecorder {
 	
 	public void wirteOutESResult(){
 		try{
-			FileWriter writer = new FileWriter(new File(".\\_output_results\\esResult.txt"),false);
+			FileWriter writer = new FileWriter(new File("./_output_results/esResult.txt"),false);
 			/*Serving time*/
 			writer.write("total time: "+totalTime+"\r\n"   );
 			writer.write("serving time withoutGA: "+serviceTimeWithOutGA+"\r\n");

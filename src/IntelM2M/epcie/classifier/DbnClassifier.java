@@ -59,7 +59,7 @@ public class DbnClassifier implements Classifier  {
     	 Instances insts, attSelected;
     	 AttributeSelection attSelector;
     	 String options = "-Q weka.classifiers.bayes.net.search.global.TAN";
-    	 String  output_file_path=".\\_output_results\\";
+    	 String  output_file_path="./_output_results/";
     	try
     	{
     		String []activityList=(String[])EnvStructure.activityList.toArray(new String[0]);   		
@@ -69,7 +69,7 @@ public class DbnClassifier implements Classifier  {
 	    		if(rebuild)
 	    		{
 	    				    			
-	    			insts = new Instances(new FileReader(".\\_weka_training_data\\" + activityList[index]+".arff"));
+	    			insts = new Instances(new FileReader("./_weka_training_data/" + activityList[index]+".arff"));
 	    			int i=insts.numAttributes() ;
 	    			insts.setClassIndex(insts.numAttributes() - 1); //the position of class in attribute
 	    			classifier[index] = new EditableBayesNet(insts);
@@ -87,20 +87,20 @@ public class DbnClassifier implements Classifier  {
 	    			//classifier[index].buildClassifier(insts);
 	    			
 	    			
-	    			SerializationHelper.write(".\\_weka_output_data\\" + activityList[index] + ".model", classifier);
+	    			SerializationHelper.write("./_weka_output_data/" + activityList[index] + ".model", classifier);
 	    			classifier[index].setOptions(Utils.splitOptions(options));    			
 	    			//output
-	    			BufferedWriter writer = new BufferedWriter(new FileWriter(".\\_weka_output_data\\selected_" + activityList[index]+".arff"));
+	    			BufferedWriter writer = new BufferedWriter(new FileWriter("./_weka_output_data/selected_" + activityList[index]+".arff"));
 	    			writer.write(attSelected.toString());
 	    			writer.flush();
-	    			writer = new BufferedWriter(new FileWriter(".\\_weka_output_data\\" + activityList[index]+ ".xml"));
+	    			writer = new BufferedWriter(new FileWriter("./_weka_output_data/" + activityList[index]+ ".xml"));
 	    			writer.write(classifier[index].toXMLBIF03());
 	    			writer.flush();
 	    			writer.close();
 	    		}
 	    		else //read models
 	    		{
-	    			attSelected = new Instances(new FileReader(".\\_weka_output_data\\selected_" + activityList[index]));
+	    			attSelected = new Instances(new FileReader("./_weka_output_data/selected_" + activityList[index]));
 	    			attSelected.setClassIndex(attSelected.numAttributes() - 1);
 	    			classifier[index] = new EditableBayesNet(attSelected);
 	    			classifier[index].buildClassifier(attSelected);
@@ -123,7 +123,7 @@ public class DbnClassifier implements Classifier  {
     		//ETCGenerator etc= new ETCGenerator();
     		for(int index = 0;  index < activityList.length;  index ++){
 	    				    			
-	    			insts = new Instances(new FileReader(".\\_weka_training_data\\" + activityList[index]+".arff"));
+	    			insts = new Instances(new FileReader("./_weka_training_data/" + activityList[index]+".arff"));
 	    			int i=insts.numAttributes() ;
 	    			insts.setClassIndex(insts.numAttributes() - 1); //the position of class in attribute
 	    			classifier[index] = new EditableBayesNet(insts);    			
@@ -147,7 +147,7 @@ public class DbnClassifier implements Classifier  {
     		//ETCGenerator etc= new ETCGenerator();
     		for(int index = 0;  index < activityList.length;  index ++){
 	    				    			
-	    			insts = new Instances(new FileReader(".\\_weka_training_data\\" + activityList[index]+".arff"));
+	    			insts = new Instances(new FileReader("./_weka_training_data/" + activityList[index]+".arff"));
 	    			int i=insts.numAttributes() ;
 	    			insts.setClassIndex(insts.numAttributes() - 1); //the position of class in attribute
 	    			classifier[index] = new EditableBayesNet(insts);    			
@@ -172,7 +172,7 @@ public class DbnClassifier implements Classifier  {
     		//ETCGenerator etc= new ETCGenerator();
     		for(int index = 0;  index < activityList.length;  index ++){
 	    				    			
-	    			insts = new Instances(new FileReader(".\\_weka_training_data\\" + activityList[index]+".arff"));
+	    			insts = new Instances(new FileReader("./_weka_training_data/" + activityList[index]+".arff"));
 	    			int i=insts.numAttributes() ;
 	    			insts.setClassIndex(insts.numAttributes() - 1); //the position of class in attribute
 	    			classifier[index] = new EditableBayesNet(insts);    			
@@ -276,12 +276,12 @@ public class DbnClassifier implements Classifier  {
 
         	ArrayList<String> inferDBN = new ArrayList<String>();
     		
-    		System.out.println("receive: {\"" + s.name + "\":\"" + s.dicreteValue+ "\"}");
+    		System.out.println("receive: {\"" + s.name + "\":\"" + s.discreteValue+ "\"}");
     		try
     		{
 
 				/*Inference */
-    			inferDBN = DBNInference(s.name, s.dicreteValue);
+    			inferDBN = DBNInference(s.name, s.discreteValue);
     			
             			
         		if(inferDBN.size()!=0){
@@ -289,8 +289,8 @@ public class DbnClassifier implements Classifier  {
         			for(int i = 0; i < inferDBN.size(); i ++)
         			{
         				System.out.print(" " + inferDBN.get(i));
-        				json.reset();  
-        				sender.send(json.add("subject","activity").add("value",inferDBN.get(i) ).toJson(),PlatformTopic.CONTEXT);
+        				//json.reset();  
+        				//sender.send(json.add("subject","activity").add("value",inferDBN.get(i) ).toJson(),PlatformTopic.CONTEXT);
         			}	
         		}
 
@@ -385,7 +385,7 @@ public class DbnClassifier implements Classifier  {
 				/*inference*/
 				for(int i=0 ;i<sensorContext.length;i++){
 					SensorNode s= new SensorNode(sensorName[i],sensorContext[i]);
-					rawFromDBN = DBNInference(s.name, s.dicreteValue);
+					rawFromDBN = DBNInference(s.name, s.discreteValue);
 				}
 				int humanNumber= split[1].split(" ").length;
 				if(rawFromDBN.size()!=0){
@@ -553,8 +553,8 @@ public class DbnClassifier implements Classifier  {
 //	    			{
 //	    				String node=classifier[actIndex].getNodeName(i);
 //	    				//System.out.println(node);
-//	    				File dir = new File(".\\_weka_training_data");
-//	    				Instances insts = new Instances(new FileReader(".\\_weka_training_data\\" + dir.list()[0]));
+//	    				File dir = new File("./_weka_training_data");
+//	    				Instances insts = new Instances(new FileReader("./_weka_training_data/" + dir.list()[0]));
 //	    				int stateNum = insts.attribute(node).numValues();
 //	    				
 //	    				int index = -1;
@@ -673,12 +673,12 @@ public class DbnClassifier implements Classifier  {
 			{
 				if(s.rawValue < thre[index])
 				{
-					s.dicreteValue = status[index];
+					s.discreteValue = status[index];
 					break;
 				}
 				else if(index + 1 == thre.length )
 				{
-					s.dicreteValue = status[index + 1];
+					s.discreteValue = status[index + 1];
 					break;
 				}
 			}

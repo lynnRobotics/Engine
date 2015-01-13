@@ -46,10 +46,10 @@ public class KmCluster {
     	for(String room:roomList){
     		try
 	    	{
-    			BufferedWriter writer = new BufferedWriter(new FileWriter(".\\_weka_output_data\\" + room + ".arff"));
+    			BufferedWriter writer = new BufferedWriter(new FileWriter("./_weka_output_data/" + room + ".arff"));
     			writeArff(writer, room, etcList);
     			
-	    		File f = new File(".\\_weka_output_data\\" + room + ".arff");
+	    		File f = new File("./_weka_output_data/" + room + ".arff");
 	        	Instances train = new Instances(new BufferedReader(new FileReader(f)));
 	        	AddCluster ac = new AddCluster();  
 	        	SimpleKMeans skm = new SimpleKMeans(); 
@@ -60,10 +60,10 @@ public class KmCluster {
 	    		Instances clusterCenter = skm.getClusterCentroids();
 	    		
 	    		//output
-	    		 writer = new BufferedWriter(new FileWriter(".\\_weka_output_data\\" + room + "_clustered.arff"));
+	    		 writer = new BufferedWriter(new FileWriter("./_weka_output_data/" + room + "_clustered.arff"));
 	    		writer.write(CI.toString());
 	    		writer.flush();
-	    		writer = new BufferedWriter(new FileWriter(".\\_weka_output_data\\" + room + "_centroids.arff"));
+	    		writer = new BufferedWriter(new FileWriter("./_weka_output_data/" + room + "_centroids.arff"));
 	    		writer.write(clusterCenter.toString());
 	    		writer.flush();
 	    		writer.close();

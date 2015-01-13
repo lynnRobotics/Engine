@@ -21,17 +21,17 @@ import IntelM2M.epcie.classifier.DbnClassifier;
 public class EtcGenerator
 {
 	
- 	public Map<String, RelationTable> actAppList; //< roomname_activity , relationtable> 儲存該room對應的電器與電器資訊
+ 	public Map<String, RelationTable> actAppList; //< roomName_activity , relationtable> 儲存該room對應的電器與電器資訊
 	public Instances insts;
 	
 	public EtcGenerator()
 	{
 		try{
-			File dir = new File(".\\_weka_training_data");
-			insts = new Instances(new FileReader(".\\_weka_training_data\\" + dir.list()[0]));
+			File dir = new File("./_weka_training_data");
+			insts = new Instances(new FileReader("./_weka_training_data/" + dir.list()[0]));
 
 		}catch(Exception ex){}
-		actAppList=EnvStructure.actAppList;	
+		actAppList = EnvStructure.actAppList;	
 
 	}
 	
@@ -43,7 +43,7 @@ public class EtcGenerator
 		}catch(Exception ex){}
 		
 		String []activityList=(String[])EnvStructure.activityList.toArray(new String[0]); 
-		String  output_file_path=".\\_output_results\\";
+		String  output_file_path="./_output_results/";
 		
 		for(int index = 0;  index < activityList.length;  index ++){
     	    	
@@ -217,7 +217,7 @@ public class EtcGenerator
 	
 	public void setImplicit(String etcListKey, String activity, EditableBayesNet classifier){
 		try{
-			Instances actInsts = new Instances(new FileReader(".\\_weka_training_data\\" + activity + ".arff"));
+			Instances actInsts = new Instances(new FileReader("./_weka_training_data/" + activity + ".arff"));
 			int allLength = actInsts.numInstances();
 			
 			//extract on_activity

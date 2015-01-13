@@ -13,7 +13,7 @@ public class PmvTest {
     	PMVCalculate pc= new PMVCalculate(intensity,temp,vel);
     	double pmv=pc.getPMVandPPD()[0];
     	double ppd=pc.getPMVandPPD()[1];
-    	double good=pc.getMostFitTemp();
+    	double good=pc.getMostFitTemp(1.0);
     	System.out.println(pmv+" "+ppd+" "+good);
     }
 }

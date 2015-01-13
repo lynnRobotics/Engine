@@ -32,20 +32,18 @@ public class GaGenerator {
 
 	public GaGenerator() {
 		try {
-			File dir = new File(".\\_weka_training_data");
-			insts = new Instances(new FileReader(".\\_weka_training_data\\"
+			File dir = new File("./_weka_training_data");
+			insts = new Instances(new FileReader("./_weka_training_data/"
 					+ dir.list()[0]));
-
 		} catch (Exception ex) {
 		}
 	}
 
 	public GaGenerator(int level) {
 		try {
-			File dir = new File(".\\_weka_training_data");
-			insts = new Instances(new FileReader(".\\_weka_training_data\\"
-					+ dir.list()[0]));
-
+			File dir = new File("./_weka_training_data");
+			insts = new Instances(new FileReader("./_weka_training_data/"
+		    			+ dir.list()[0]));
 		} catch (Exception ex) {
 		}
 		this.level = level;
@@ -196,7 +194,7 @@ public class GaGenerator {
 	// /*根據 classifiers來算smatrix*/
 	// int round=CrossValidate.cvRound;
 	// double sMatrix
-	// [][]=buildSMatrix(".\\_output_results\\sMatrix\\round"+round+"_sMatrix_"+(level-1)+".txt",DBN,lastGAList);
+	// [][]=buildSMatrix("./_output_results/sMatrix/round"+round+"_sMatrix_"+(level-1)+".txt",DBN,lastGAList);
 	//
 	//
 	// /*根據smatrix來build gaList*/
@@ -319,10 +317,9 @@ public class GaGenerator {
 		String[] lastGAList = (String[]) keys.toArray(new String[0]);
 		/* 根據 classifiers來算smatrix */
 		int round = CrossValidate.cvRound;
-		double sMatrix[][] = buildSMatrix(".\\_output_results\\sMatrix\\round"
+		double sMatrix[][] = buildSMatrix("./_output_results/sMatrix/round"
 				+ round + "_sMatrix_" + (level - 1) + ".txt", DBN, lastGAList,
 				retrain);
-
 		/* 根據smatrix來build gaList */
 		int gaIndex = 0;/* 第n個ga */
 
@@ -411,10 +408,9 @@ public class GaGenerator {
 		String[] lastGAList = (String[]) keys.toArray(new String[0]);
 		/* 根據 classifiers來算smatrix */
 		int round = CrossValidate.cvRound;
-		double sMatrix[][] = buildSMatrix(".\\_output_results\\sMatrix\\round"
+		double sMatrix[][] = buildSMatrix("./_output_results/sMatrix/round"
 				+ round + "_sMatrix_" + (level - 1) + ".txt", DBN, lastGAList,
 				retrain);
-
 		/* 根據smatrix來build gaList */
 		int gaIndex = 0;/* 第n個ga */
 

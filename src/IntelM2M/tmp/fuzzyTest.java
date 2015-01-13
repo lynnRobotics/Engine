@@ -6,7 +6,7 @@ import IntelM2M.datastructure.AppNode;
 public class fuzzyTest {
     public static void main(String[] args) throws Exception {
 //        // Load from 'FCL' file
-//        String fileName = ".\\fcl\\tipper.fcl";
+//        String fileName = "./fcl/tipper.fcl";
 //        FIS fis = FIS.load(fileName,true);
 //        // Error while loading?
 //        if( fis == null ) { 

@@ -18,7 +18,7 @@ public class CountActivity {
 			double count=0;
 			double allCount=0;
 			try{
-				BufferedReader reader = new BufferedReader(new FileReader(".\\_input_data\\CrossValidate\\cv_all_data.txt"));
+				BufferedReader reader = new BufferedReader(new FileReader("./_input_data/CrossValidate/cv_all_data.txt"));
 				String read=null;
 
 				while((read = reader.readLine()) != null){
@@ -53,7 +53,7 @@ public class CountActivity {
 			countList2.put(str,0);
 		}
 		try{
-			BufferedReader reader = new BufferedReader(new FileReader(".\\_input_data\\CrossValidate\\cv_all_data3.txt"));
+			BufferedReader reader = new BufferedReader(new FileReader("./_input_data/CrossValidate/cv_all_data3.txt"));
 			String read=null;
 			int allCount=0;
 
@@ -96,7 +96,7 @@ public class CountActivity {
 	
 	private void countConfidence(){
 		try{
-			BufferedReader reader = new BufferedReader(new FileReader(".\\_weka_output_data\\selected_Reading.arff"));
+			BufferedReader reader = new BufferedReader(new FileReader("./_weka_output_data/selected_Reading.arff"));
 			String read=null;
 
 			double c1=0;
@@ -143,8 +143,8 @@ public class CountActivity {
 
 	private void delStudy_Refri(){
 		try{
-			BufferedReader reader = new BufferedReader(new FileReader(".\\_input_data\\CrossValidate\\cv_all_data.txt"));
-			FileWriter writer = new FileWriter(new File(".\\_input_data\\CrossValidate\\cv_all_data_new.txt"));
+			BufferedReader reader = new BufferedReader(new FileReader("./_input_data/CrossValidate/cv_all_data.txt"));
+			FileWriter writer = new FileWriter(new File("./_input_data/CrossValidate/cv_all_data_new.txt"));
 			String read=null;
 
 			while((read = reader.readLine()) != null){
@@ -225,8 +225,8 @@ public class CountActivity {
 	
 	private void sortSMattrix(){
 		try{
-			BufferedReader reader = new BufferedReader(new FileReader(".\\_input_data\\sMatrix.txt"));
-			FileWriter writer = new FileWriter(new File(".\\_input_data\\sMatrix2.txt"));
+			BufferedReader reader = new BufferedReader(new FileReader("./_input_data/sMatrix.txt"));
+			FileWriter writer = new FileWriter(new File("./_input_data/sMatrix2.txt"));
 			String read=null;
 
 			while((read = reader.readLine()) != null){
@@ -286,8 +286,8 @@ public class CountActivity {
 	
 	private void changeGoOutFeature(){
 		try{
-			BufferedReader reader = new BufferedReader(new FileReader(".\\_input_data\\simulator\\simulator_trainingdata2.txt"));
-			FileWriter writer = new FileWriter(new File(".\\_input_data\\simulator\\simulator_trainingdata3.txt"),false);
+			BufferedReader reader = new BufferedReader(new FileReader("./_input_data/simulator/simulator_trainingdata2.txt"));
+			FileWriter writer = new FileWriter(new File("./_input_data/simulator/simulator_trainingdata3.txt"),false);
 			String read=null;
 
 			String goOutmod="off off off off off off off off off off off off off off off off off off standby off standby off off off off standby standby off off off standby standby standby off off standby off off off off off low low low low low low low low low low medium #GoOut";
@@ -342,8 +342,8 @@ public class CountActivity {
 	
 	private void watchContext(){
 		try{
-			BufferedReader reader = new BufferedReader(new FileReader(".\\_input_data\\test\\test.txt"));
-			FileWriter writer = new FileWriter(new File(".\\_input_data\\test\\result.txt"),false);
+			BufferedReader reader = new BufferedReader(new FileReader("./_input_data/test/test.txt"));
+			FileWriter writer = new FileWriter(new File("./_input_data/test/result.txt"),false);
 			String read=null;
 			Map<String, ArrayList<String>> sensorStatus=EnvStructure.sensorStatus;
 			String [] sensorName=(String[])sensorStatus.keySet().toArray(new String[0]);
@@ -370,7 +370,7 @@ public class CountActivity {
 		//ca.changeGoOutFeature();
 		//ca.changeGoOutFeature();
 		//ca.sortSMattrix();
-		//ca.addNoise(".\\_input_data\\CrossValidate\\cv_all_data2.txt",".\\_input_data\\CrossValidate\\cv_all_data_tmp.txt");
+		//ca.addNoise("./_input_data/CrossValidate/cv_all_data2.txt","./_input_data/CrossValidate/cv_all_data_tmp.txt");
 		//ca.countConfidence();
 		//ca.delStudy_Refri();
 		//ca.count();

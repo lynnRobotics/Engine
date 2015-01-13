@@ -1,5 +1,0 @@
-WatchingTV current_TV_livingroom-on camera_livingroom-on light_livingroom-on
-PlayingKinect accelerometer-high current_kinect_livingroom-on current_TV_livingroom-on current_fan_livingroom-on PIR_livingroom-on camera_livingroom-on light_livingroom-on
-Chatting camera_livingroom-on audio_livingroom-on light_livingroom-on
-ReadingBook light_livingroom-on camera_livingroom-on
-UsingPC light_bedroom-on camera_bedroom-on current_PC_bedroom-on current_monitor_bedroom-on current_fan_bedroom-on

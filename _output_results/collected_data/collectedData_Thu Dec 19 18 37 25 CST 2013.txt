@@ -1,0 +1,135 @@
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:12 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:13 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:14 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:15 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:16 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:17 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:18 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:18 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:19 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:20 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:22 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:23 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:24 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:25 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:26 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:26 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:27 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:28 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:29 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:30 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:31 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:32 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:33 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:35 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:36 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:36 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:37 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:38 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:39 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:40 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:41 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:42 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:43 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:44 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:45 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:47 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:48 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:48 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:49 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:50 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:52 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:53 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:54 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:55 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:56 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:57 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:58 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off off off off off #NoActivity @Thu Dec 19 18:38:59 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:00 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:01 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:02 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:03 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:04 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:05 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:06 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:07 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:09 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:10 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:11 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:11 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:13 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:13 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:17 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:18 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:20 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:21 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:22 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:23 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:24 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:25 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:26 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:30 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:32 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:32 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:34 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:35 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:36 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:37 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:38 CST 2013
+on_99_99 off off off off off off standby off standby off off off standby standby on_23 off standby off off on_2 off off off #NoActivity @Thu Dec 19 18:39:39 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:44 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:45 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:46 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:47 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:48 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:48 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:49 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:50 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:51 CST 2013
+on_99_99 off off off off off off standby off standby off on_1 off standby standby on_23 off standby off off on_2 off off off #Reading @Thu Dec 19 18:39:52 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_23 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:39:57 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_23 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:12 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:28 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:29 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:30 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:31 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:32 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:33 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:34 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:35 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:36 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:38 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:39 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:40 CST 2013
+on_99_99 off off off off off off standby off standby on on_1 off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:41 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:42 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:43 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:44 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:45 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:46 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:47 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:48 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:49 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:50 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:51 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:53 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:54 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:55 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:56 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:57 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:58 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:40:59 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:00 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:01 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:02 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:03 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:04 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:05 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:06 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:07 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:08 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:09 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:10 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:11 CST 2013
+on_99_99 off off off off off off standby off standby on standby off standby standby on_24 off standby off off on_2 off off off #Reading WatchingTV @Thu Dec 19 18:41:12 CST 2013

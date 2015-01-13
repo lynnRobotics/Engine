@@ -1,8 +1,0 @@
-@relation studyroom-weka.filters.unsupervised.attribute.ReplaceMissingValues
-
-@attribute intensity numeric
-@attribute current_PC_studyroom numeric
-@attribute class {UsingPC}
-
-@data
-1.73,0,UsingPC

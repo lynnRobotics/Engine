@@ -25,7 +25,7 @@ public class HgaTest {
 		   			int round=CrossValidate.cvRound;
 			   		for(int k=0;k<GaGeneratorList.size();k++){
 			   			
-			   			FileWriter writer = new FileWriter(new File(".\\_output_results\\"+round+"_hga_testing_result"+k+".txt"),false);
+			   			FileWriter writer = new FileWriter(new File("./_output_results/"+round+"_hga_testing_result"+k+".txt"),false);
 			   		}
 					BufferedReader reader = new BufferedReader(new FileReader(testingDataPath));
 					//FileWriter writer = new FileWriter(new File(resultPath));
@@ -64,7 +64,7 @@ public class HgaTest {
 							if(k>highestLevel){
 								highestLevel=k;
 							}
-							FileWriter writer = new FileWriter(new File(".\\_output_results\\"+round+"_hga_testing_result"+k+".txt"),true);
+							FileWriter writer = new FileWriter(new File("./_output_results/"+round+"_hga_testing_result"+k+".txt"),true);
 							ArrayList<String> gaList=kGaList.get(k);
 							GaGenerator GA=GaGeneratorList.get(k);
 							GaDbnClassifier GaDBN=GaDbnList.get(k);
@@ -92,7 +92,7 @@ public class HgaTest {
 							Map<String,String> probDBN = new LinkedHashMap<String,String>();
 							for(int i=0 ;i<sensorContext.length;i++){
 								SensorNode s= new SensorNode(sensorName[i],sensorContext[i]);
-								rawFromDBN = GaDBN.GaDBNInference(GA,s.name, s.dicreteValue);
+								rawFromDBN = GaDBN.GaDBNInference(GA,s.name, s.discreteValue);
 							}
 		
 							int humanNumber= split[1].split(" ").length;
@@ -202,7 +202,7 @@ public class HgaTest {
 					/*write final result*/
 					for(int k=0;k<=highestLevel;k++){
 						
-						FileWriter writer = new FileWriter(new File(".\\_output_results\\"+round+"_hga_testing_result"+k+".txt"),true);
+						FileWriter writer = new FileWriter(new File("./_output_results/"+round+"_hga_testing_result"+k+".txt"),true);
 						ArrayList<String> gaList=kGaList.get(k);
 						Map <String,ExpResult> expResult=kExpResult.get(k);
 						GaGenerator GA=GaGeneratorList.get(k);
@@ -259,7 +259,7 @@ public class HgaTest {
 		   			int round=CrossValidate.cvRound;
 			   		for(int k=0;k<GaGeneratorList.size();k++){
 			   			
-			   			FileWriter writer = new FileWriter(new File(".\\_output_results\\"+round+"_hga_testing_result"+k+".txt"),false);
+			   			FileWriter writer = new FileWriter(new File("./_output_results/"+round+"_hga_testing_result"+k+".txt"),false);
 			   		}
 					BufferedReader reader = new BufferedReader(new FileReader(testingDataPath));
 					//FileWriter writer = new FileWriter(new File(resultPath));
@@ -301,7 +301,7 @@ public class HgaTest {
 							if(k>highestLevel){
 								highestLevel=k;
 							}
-							FileWriter writer = new FileWriter(new File(".\\_output_results\\"+round+"_hga_testing_result"+k+".txt"),true);
+							FileWriter writer = new FileWriter(new File("./_output_results/"+round+"_hga_testing_result"+k+".txt"),true);
 							ArrayList<String> gaList=kGaList.get(k);
 							GaGenerator GA=GaGeneratorList.get(k);
 							GaDbnClassifier GaDBN=GaDbnList.get(k);
@@ -329,7 +329,7 @@ public class HgaTest {
 							Map<String,String> probDBN = new LinkedHashMap<String,String>();
 							for(int i=0 ;i<sensorContext.length;i++){
 								SensorNode s= new SensorNode(sensorName[i],sensorContext[i]);
-								rawFromDBN = GaDBN.GaDBNInference(GA,s.name, s.dicreteValue);
+								rawFromDBN = GaDBN.GaDBNInference(GA,s.name, s.discreteValue);
 							}
 		
 							int humanNumber= split[1].split(" ").length;
@@ -507,7 +507,7 @@ public class HgaTest {
 								if(exist){
 									GAinferResult.put(str, true);
 									String gName=SAfinalResult.get(containerIndex);
-									FileWriter writer = new FileWriter(new File(".\\_output_results\\"+round+"_hga_testing_result0.txt"),true);
+									FileWriter writer = new FileWriter(new File("./_output_results/"+round+"_hga_testing_result0.txt"),true);
 									writer.write("~"+ gName+"\r\n");
 									writer.flush();
 								}else{
@@ -534,7 +534,7 @@ public class HgaTest {
 										if(detectNumber<humanNumber){
 											GAinferResult.put(str, true);
 											String gName=SAfinalResult.get(containerIndex);
-											FileWriter writer = new FileWriter(new File(".\\_output_results\\"+round+"_hga_testing_result0.txt"),true);
+											FileWriter writer = new FileWriter(new File("./_output_results/"+round+"_hga_testing_result0.txt"),true);
 											writer.write("~"+ gName+"\r\n");
 											writer.flush();
 										}
@@ -580,7 +580,7 @@ public class HgaTest {
 					/*write final result*/
 					for(int k=0;k<=0;k++){
 						
-						FileWriter writer = new FileWriter(new File(".\\_output_results\\"+round+"_hga_testing_result"+k+".txt"),true);
+						FileWriter writer = new FileWriter(new File("./_output_results/"+round+"_hga_testing_result"+k+".txt"),true);
 						ArrayList<String> gaList=kGaList.get(k);
 						Map <String,ExpResult> expResult=kExpResult.get(k);
 						GaGenerator GA=GaGeneratorList.get(k);

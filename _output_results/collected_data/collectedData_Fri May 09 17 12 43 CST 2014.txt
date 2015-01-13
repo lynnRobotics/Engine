@@ -1,0 +1,14 @@
+on_99_99 off off off off off off standby off standby off off off standby standby standby off standby off off on_2 off off off #NoActivity @Fri May 09 17:14:12 CST 2014
+on_99_99 off on_99 off off off off standby off standby off off off standby standby standby off standby off off on_2 off off off #NoActivity @Fri May 09 17:14:15 CST 2014
+on_99_99 off on_99 off off off off standby off standby off off off standby standby standby off standby off off on_1 off off off #NoActivity @Fri May 09 17:14:16 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_1 off off off #WatchingTV @Fri May 09 17:14:21 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_1 off off off #WatchingTV @Fri May 09 17:14:22 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_1 off off off #WatchingTV @Fri May 09 17:14:27 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_1 off off off #WatchingTV @Fri May 09 17:14:28 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_1 off off off #WatchingTV @Fri May 09 17:14:29 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_1 off off off #WatchingTV @Fri May 09 17:14:30 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Fri May 09 17:14:31 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Fri May 09 17:14:47 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Fri May 09 17:15:03 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Fri May 09 17:15:18 CST 2014
+on_99_99 off on_99 off off off off standby off standby on off off standby standby standby off standby off off on_2 off off off #WatchingTV @Fri May 09 17:15:34 CST 2014

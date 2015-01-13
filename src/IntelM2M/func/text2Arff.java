@@ -29,8 +29,8 @@ public class text2Arff
 	
 //	public void temp(){
 //		try {
-//			BufferedReader reader = new BufferedReader(new FileReader(".\\"+ dirName + "\\" + fileName + ".txt"));
-//			FileWriter writer = new FileWriter(new File(".\\"+ dirName + "\\" + fileName + "2.txt"));
+//			BufferedReader reader = new BufferedReader(new FileReader("./"+ dirName + "/" + fileName + ".txt"));
+//			FileWriter writer = new FileWriter(new File("./"+ dirName + "/" + fileName + "2.txt"));
 //			String read;
 //			while((read = reader.readLine()) != null)
 //			{
@@ -61,7 +61,7 @@ public class text2Arff
 			
 			for(String activity : actList)
 			{
-				FileWriter writer = new FileWriter(new File(".\\_weka_training_data\\" + activity + ".arff"));
+				FileWriter writer = new FileWriter(new File("./_weka_training_data/" + activity + ".arff"));
 				
 				
 				//---------------------- write description --------------------------------------
@@ -161,7 +161,7 @@ public class text2Arff
 	static public void convertGaRawToArff(GaGenerator GA,String rawTrainingDataPath)
 	{
 
-		String gaTrainingDataPath=".\\_input_data\\inputTmp\\ga_training_data.txt";
+		String gaTrainingDataPath="./_input_data/inputTmp/ga_training_data.txt";
 		
 		try {
 			BufferedReader reader = new BufferedReader(new FileReader(
@@ -205,7 +205,7 @@ public class text2Arff
 			
 			for(String activity : gaList)
 			{
-				FileWriter writer = new FileWriter(new File(".\\_weka_training_data\\" + activity + ".arff"));
+				FileWriter writer = new FileWriter(new File("./_weka_training_data/" + activity + ".arff"));
 				
 				//---------------------- write description --------------------------------------
 				writer.write("@relation TrainingData_" + activity + "\r\n\n");
@@ -323,7 +323,7 @@ public class text2Arff
 //    public void convertGaRawToArff2(GaGenerator GA,String rawTrainingDataPath)
 //	{
 //
-//		String gaTrainingDataPath=".\\_input_data\\ga_training_data.txt";
+//		String gaTrainingDataPath="./_input_data/ga_training_data.txt";
 //		
 //		try {
 //			BufferedReader reader = new BufferedReader(new FileReader(
@@ -364,7 +364,7 @@ public class text2Arff
 //			
 //			for(String activity : gaList)
 //			{
-//				FileWriter writer = new FileWriter(new File(".\\_weka_training_data\\" + activity + ".arff"));
+//				FileWriter writer = new FileWriter(new File("./_weka_training_data/" + activity + ".arff"));
 //				
 //				//---------------------- write description --------------------------------------
 //				writer.write("@relation TrainingData_" + activity + "\r\n\n");
@@ -417,7 +417,7 @@ public class text2Arff
 		Map<String, ArrayList<String>> sensorList=EnvStructure.sensorStatus;
 		ArrayList<String> actList =EnvStructure.activityList;
 		try{
-			BufferedWriter writer = new BufferedWriter(new FileWriter(".\\_weka_training_data\\cluster.arff"));
+			BufferedWriter writer = new BufferedWriter(new FileWriter("./_weka_training_data/cluster.arff"));
 			writer.write("@relation cluster  \n\n");
 			Set<String>  keys = sensorList.keySet();
 			for(String sensor : keys)

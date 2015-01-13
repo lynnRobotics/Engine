@@ -25,6 +25,7 @@ public class PMVCalculate {
 		w = 0;
 		rh = 50;
 		t_a = 26;
+		
 		int month = Calendar.getInstance().get(Calendar.MONTH);
 		if(month >= 2 && month <= 3)
 			i_cl = 0.7;
@@ -41,7 +42,7 @@ public class PMVCalculate {
 		setInitialTclHc(30,30);
 	}
 	
-	public  PMVCalculate(double intensity,double temp, double vel){
+	public PMVCalculate(double intensity,double temp, double vel){
 		java.util.Date date = new java.util.Date();
 		m = intensity; 
 		w = 0;
@@ -72,11 +73,34 @@ public class PMVCalculate {
 		v_ar = args[5];
 		setFcl(i_cl); // set Fcl and convert Icl unit
 		setInitialTclHc(30,30);
-	}	
+	}
+	
+	public PMVCalculate (double intensity, double temp, double vel, double humidity) {
+		m = intensity; 
+		w = 0;
+		rh = humidity;
+		t_a = temp;
+		int month = Calendar.getInstance().get(Calendar.MONTH);
+		if(month >= 2 && month <= 3)
+			i_cl = 0.7;
+		else if(month >= 4 && month <= 7)
+			i_cl = 0.5;
+		else if(month >= 8 && month <= 9)
+			i_cl = 1.0;
+		else
+			i_cl = 1.5;
+		
+		t_r = t_a - 3;
+		v_ar = vel;
+		setFcl(i_cl); // set Fcl and convert Icl unit
+		setInitialTclHc(30,30);
+	}
+	
 	public void setInitialTclHc(double tcl, double hc) {
 		t_cl = tcl;
 		h_c = hc;
 	}
+	
 	public void setM(double a) {	// set Activity factor
 		m = a;
 	}
@@ -88,6 +112,7 @@ public class PMVCalculate {
 	public void setRh(double h) {
 		rh = h;
 	}
+	
 	public void setIcl(double icl) {
 		i_cl = icl; // unit : clo
 		setFcl(i_cl); // set Fcl and convert Icl unit
@@ -107,7 +132,7 @@ public class PMVCalculate {
 
 		setPa();
 		findMinVec(q);
-		/* calculate PMV */
+		// calculate PMV
 		PMV_PPD[0] = (0.303 * Math.exp(-0.036 * m) + 0.028);
 		PMV_PPD[0] *= m - (3.05e-3 * (5733 - 6.99 * m - pa)) -
 			0.42 * (m - 58.15) - 1.7e-5 * m * (5867 - pa) -
@@ -115,7 +140,7 @@ public class PMVCalculate {
 			(Math.pow(t_cl + 273, 4) - Math.pow(t_r + 273, 4)) -
 			f_cl * h_c * (t_cl - t_a);
 
-		/* calculate PPD */
+		// calculate PPD
 		PMV_PPD[1] = 100 - 95 * Math.exp(-0.03353 * Math.pow(PMV_PPD[0],4) - 0.2179 * Math.pow(PMV_PPD[0], 2));
 		pmv = PMV_PPD[0];
 		ppd = PMV_PPD[1];
@@ -125,19 +150,19 @@ public class PMVCalculate {
 	/* to get the t_a which can make the consequent pmv = 0 
 	 * use 1% to gradually approach target value 
 	 * (experimental result with quite good speed and accuracy) */
-	public synchronized double getMostFitTemp() {
-		if(Math.abs(pmv) < 0.001) {
+	public synchronized double getMostFitTemp(double targetPMV) {
+		if(Math.abs(pmv - targetPMV) < 0.001) {
 			return t_a;
 		}
-		if(pmv > 0) {
+		if(pmv > targetPMV) {
 			t_a *= 0.99;
 			getPMVandPPD();
-			getMostFitTemp();
+			getMostFitTemp(targetPMV);
 		}
 		else {
 			t_a *= 1.01;
 			getPMVandPPD();
-			getMostFitTemp();
+			getMostFitTemp(targetPMV);
 		}
 		return t_a;
 	}	
@@ -285,7 +310,6 @@ public class PMVCalculate {
 			}
 		}
 	}
-
 }
 
 

@@ -1,0 +1,23 @@
+﻿78 PreparingFood NO
+23 Sleeping WatchingTV
+117 UsingPC NO
+132 PlayingKinect NO
+81 GoOut GoOut
+54 ComeBack ComeBack
+78 Chatting Chatting
+16 Reading Sleeping
+7 WatchingTV Reading
+84 Reading NO
+114 WatchingTV NO
+306 AllSleeping
+16 PreparingFood Sleeping
+23 Sleeping WatchingTV
+16 UsingPC WatchingTV
+16 UsingPC PlayingKinect
+16 Sleeping PlayingKinect
+7 Reading PlayingKinect
+20 ComeBack WatchingTV
+15 ComeBack PreparingFood
+120 UsingNoteBook NO
+1560 Studying NO (有房間燈)
+150 Studying NO (沒有房間燈)

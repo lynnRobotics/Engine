@@ -1,0 +1,13 @@
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Mar 21 23:32:09 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Mar 21 23:32:10 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Mar 21 23:32:12 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Mar 21 23:32:14 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Thu Mar 21 23:32:16 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Mar 21 23:32:17 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Mar 21 23:32:19 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Mar 21 23:32:21 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Mar 21 23:32:23 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Mar 21 23:32:25 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Mar 21 23:32:27 CST 2013
+on_1 off on_2 off off off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #NoActivity @Thu Mar 21 23:32:29 CST 2013
+on_1 off on_2 on_1 on_1 off off standby off standby standby off off standby standby standby off standby off off off off on_1 off #PreparingFood @Thu Mar 21 23:32:34 CST 2013

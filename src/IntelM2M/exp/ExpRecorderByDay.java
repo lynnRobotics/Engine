@@ -306,7 +306,7 @@ public class ExpRecorderByDay {
 			try{
 				
 				/*write approch save*/
-				FileWriter writer = new FileWriter(new File(".\\_output_results\\day_data\\ESresult.txt"),false);
+				FileWriter writer = new FileWriter(new File("./_output_results/day_data/ESresult.txt"),false);
 				double t1=0,t2=0,t3=0;
 				for(int i=0;i<rawConsumption.size();i++){
 					double raw= rawConsumption.get(i);
@@ -321,7 +321,7 @@ public class ExpRecorderByDay {
 				writer.write(t1+" , "+t3+" , "+t2+"\r\n");
 				writer.close();
 				/*write type save*/
-				writer = new FileWriter(new File(".\\_output_results\\day_data\\TypeSaveResult.txt"),false);
+				writer = new FileWriter(new File("./_output_results/day_data/TypeSaveResult.txt"),false);
 				for(int i=0;i<thermalTypeSave.size();i++){
 					double thermalSave= thermalTypeSave.get(i);
 					double visualSave= visualTypeSave.get(i);
@@ -332,7 +332,7 @@ public class ExpRecorderByDay {
 				writer.close();
 				
 				/*write noise save*/
-				writer = new FileWriter(new File(".\\_output_results\\day_data\\NoiseSaveResult.txt"),false);
+				writer = new FileWriter(new File("./_output_results/day_data/NoiseSaveResult.txt"),false);
 				for(int i=0;i<noiseConsumption.size();i++){
 					double noise=noiseConsumption.get(i);
 					double mchessSave= apAgentRightSaveFromNoise.get(i);
@@ -344,7 +344,7 @@ public class ExpRecorderByDay {
 				writer.close();
 				
 				/*writer wrong count*/
-				writer = new FileWriter(new File(".\\_output_results\\day_data\\WrongCount.txt"),false);
+				writer = new FileWriter(new File("./_output_results/day_data/WrongCount.txt"),false);
 				for(int i=0;i<mchessWrongCount.size();i++){
 					double count = mchessWrongCount.get(i);
 					double count2=locationBasedWrongCount.get(i);
@@ -355,7 +355,7 @@ public class ExpRecorderByDay {
 				
 				/*write average comfort*/
 				averageComfortList();
-				writer = new FileWriter(new File(".\\_output_results\\day_data\\ComfortResult.txt"),false);
+				writer = new FileWriter(new File("./_output_results/day_data/ComfortResult.txt"),false);
 				for(int i=0;i<rawVCList.size();i++){
 					double rawVC=rawVCList.get(i);
 					double VC= VCList.get(i);
@@ -368,7 +368,7 @@ public class ExpRecorderByDay {
 				writer.close();
 				/*write service time*/
 				averageComfortList();
-				writer = new FileWriter(new File(".\\_output_results\\day_data\\ServingTime.txt"),false);
+				writer = new FileWriter(new File("./_output_results/day_data/ServingTime.txt"),false);
 				for(int i=0;i<serviceTimeWithGA.size();i++){
 					double time1=serviceTimeWithGA.get(i);
 					double time2= serviceTimeWithOutGA.get(i);

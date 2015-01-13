@@ -1,0 +1,86 @@
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:07:55 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:07:57 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:07:59 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:01 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:02 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:05 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:07 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:09 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:11 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:12 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:15 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Mon Mar 11 19:08:17 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Mon Mar 11 19:08:19 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Mon Mar 11 19:08:21 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Mon Mar 11 19:08:22 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Mon Mar 11 19:08:25 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Mon Mar 11 19:08:27 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Mon Mar 11 19:08:28 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Mon Mar 11 19:08:31 CST 2013
+on_3 off on_3 off off off off standby off standby standby off off standby standby standby off standby off off on_2 off off off #NoActivity @Mon Mar 11 19:08:32 CST 2013
+on_3 off on_3 off off off off standby off standby standby on_1 off standby standby standby off standby off off on_2 off off off #Reading @Mon Mar 11 19:08:39 CST 2013
+on_3 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:08:57 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:13 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:15 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:17 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:19 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:21 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:23 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:25 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:27 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:28 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:31 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:33 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:35 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:37 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:38 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:41 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:43 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:45 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:47 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:48 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:51 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:53 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:55 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:57 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:09:58 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:01 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:03 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:05 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:07 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:08 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:11 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:13 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:15 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:17 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:18 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:45 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:47 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:48 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:51 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:53 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:55 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:57 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:10:58 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:01 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:03 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:05 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:07 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:08 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:11 CST 2013
+on_2 off off off off off off on_1 off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:13 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:38 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:41 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:43 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:45 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:47 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:49 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:51 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:53 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:55 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:57 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:11:58 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:12:01 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:12:03 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:12:05 CST 2013
+on_2 off off off off off off standby off standby on on_1 on standby standby standby off standby off off on_2 off off off #PlayingKinect Reading @Mon Mar 11 19:12:07 CST 2013

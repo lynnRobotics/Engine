@@ -1,0 +1,12 @@
+off off off off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Tue Feb 05 14:43:47 CST 2013
+off off off off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Tue Feb 05 14:44:06 CST 2013
+off off off off off off off standby off standby standby off off standby standby standby off standby off off off off off off #NoActivity @Tue Feb 05 14:44:18 CST 2013
+off off off off off off off standby off standby standby off off standby standby standby off standby off off off on_1 off off #NoActivity @Tue Feb 05 14:45:32 CST 2013
+off off off off off off off standby off standby standby off off standby standby standby off standby on_1 off off on_1 off off #Sleeping @Tue Feb 05 14:47:27 CST 2013
+off off off off off off off standby off standby on off off standby standby standby off standby on_1 off on_1 on_1 off off #Sleeping WatchingTV @Tue Feb 05 14:50:00 CST 2013
+off off off off off off off standby off standby standby off off standby standby standby off standby on_1 off on_1 on_1 off off #Sleeping @Tue Feb 05 14:51:27 CST 2013
+off off off off off off off standby off standby standby off off standby standby standby off standby on_1 off on_1 on_1 off off #Sleeping @Tue Feb 05 14:51:31 CST 2013
+off off off off off off off standby off on standby off off standby standby standby off standby on_1 off on_1 on_1 off off #Sleeping UsingPC @Tue Feb 05 14:52:21 CST 2013
+off off off off off off off standby off on standby off off standby standby standby off standby on_1 off on_1 on_1 off off #Sleeping UsingPC @Tue Feb 05 14:52:45 CST 2013
+off off off off off off off standby off standby standby off off standby standby standby off standby on_1 off on_1 on_1 off off #Sleeping @Tue Feb 05 14:53:21 CST 2013
+off off off off off off off standby off standby standby off off standby standby standby off standby on_1 off off on_2 off off #Sleeping @Tue Feb 05 14:53:51 CST 2013

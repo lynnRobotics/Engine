@@ -26,9 +26,8 @@ public class GaEscGenerator {
 	public GaEscGenerator(GaGenerator GA,Boolean writeOut)
 	{
 		try{
-			File dir = new File(".\\_weka_training_data");
-			insts = new Instances(new FileReader(".\\_weka_training_data\\" + dir.list()[0]));
-		
+			File dir = new File("./_weka_training_data");
+			insts = new Instances(new FileReader("./_weka_training_data/" + dir.list()[0]));
 			this.writeOut=writeOut;
 			
 
@@ -242,7 +241,7 @@ public class GaEscGenerator {
 
 	public void setESCImplicit(String etcListKey, String activity, EditableBayesNet classifier){
 		try{
-			Instances actInsts = new Instances(new FileReader(".\\_weka_training_data\\" + activity + ".arff"));
+			Instances actInsts = new Instances(new FileReader("./_weka_training_data/" + activity + ".arff"));
 			int allLength = actInsts.numInstances();
 			
 			//extract on_activity

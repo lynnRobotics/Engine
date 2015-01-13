@@ -26,11 +26,11 @@ import IntelM2M.tmp.KmCluster;
 public class CrossValidate {
 	
 	/*input*/
-	String cvAllDataPath=".\\_input_data\\CrossValidate\\cv_all_data3.txt";
+	String cvAllDataPath="./_input_data/CrossValidate/cv_all_data3.txt";
 	/*output*/
-	String cvTestDataPath=".\\_input_data\\CrossValidate\\cvTmp\\cv_test_data.txt";
-	String cvTrainingDataPath=".\\_input_data\\CrossValidate\\cvTmp\\cv_training_data.txt";
-	String cvResultPath=".\\_output_results\\cv_result.txt";
+	String cvTestDataPath="./_input_data/CrossValidate/cvTmp/cv_test_data.txt";
+	String cvTrainingDataPath="./_input_data/CrossValidate/cvTmp/cv_training_data.txt";
+	String cvResultPath="./_output_results/cv_result.txt";
 	static int crossParameter=4;
 	public static int cvRound=0;
 	
@@ -464,11 +464,11 @@ public class CrossValidate {
 	
 				wbCVData(dataMap,cvDataMap,i);
 				
-				copyData(cvTrainingDataPath,".\\_input_data\\CrossValidate\\cvTmp\\cv_training_data_"+i+".txt");
-				copyData(cvTestDataPath,".\\_input_data\\CrossValidate\\cvTmp\\cv_test_data_"+i+".txt");
+				copyData(cvTrainingDataPath,"./_input_data/CrossValidate/cvTmp/cv_training_data_"+i+".txt");
+				copyData(cvTestDataPath,"./_input_data/CrossValidate/cvTmp/cv_test_data_"+i+".txt");
 				
 				/*製造noise給trainingData*/
-				addNoise(".\\_input_data\\CrossValidate\\cvTmp\\cv_training_data_"+i+".txt",cvTrainingDataPath);
+				addNoise("./_input_data/CrossValidate/cvTmp/cv_training_data_"+i+".txt",cvTrainingDataPath);
 				
 				//DBN testing
 				  DbnClassifier DBN = new DbnClassifier();
@@ -485,18 +485,18 @@ public class CrossValidate {
 			    	CVT.convertGaRawToArff(GA, cvTrainingDataPath);
 					/*build model*/
 					DBN.buildARModel(true); //build AR model	
-					ETC.buildAllETC(DBN.classifier,".\\_output_results\\"+i+"etc.txt");//build ETC
+					ETC.buildAllETC(DBN.classifier,"./_output_results/"+i+"etc.txt");//build ETC
 				    DBN.allSetDefaultValue(true); //initial model    
 					/*build GA Model*/
 					GaDBN.buildGaModel(GA,true);
 					GaEtcGenerator GAETC = new GaEtcGenerator(GA);
-					GAETC.buildAllETC(GaDBN.classifier, ".\\_output_results\\"+i+"ga_etc.txt",GA);
+					GAETC.buildAllETC(GaDBN.classifier, "./_output_results/"+i+"ga_etc.txt",GA);
 					/*initialGaModel*/
 					GaDBN.allSetDefaultValue(GA);
 					
 					/*Testing*/
-					Map <String,ExpResult> GAtmpResult=GaDBN.testing(GA, cvTestDataPath, ".\\_output_results\\ga_testing_result_cv_"+i+".txt");
-					Map <String,ExpResult> tmpResult=DBN.testing(GA,cvTestDataPath,".\\_output_results\\_testing_result_cv_"+i+".txt");
+					Map <String,ExpResult> GAtmpResult=GaDBN.testing(GA, cvTestDataPath, "./_output_results/ga_testing_result_cv_"+i+".txt");
+					Map <String,ExpResult> tmpResult=DBN.testing(GA,cvTestDataPath,"./_output_results/_testing_result_cv_"+i+".txt");
 				  		
 					if(i==1){
 						finalResult=tmpResult;
@@ -522,7 +522,7 @@ public class CrossValidate {
 	public  ArrayList<Map <String,ExpResult>> cvProcessForHga(){
 		//Build test and training data Map
 		Map<String,ArrayList<String>> dataMap=testDataTransform();
-		String cvResultPath=".\\_output_results\\HGA_cv_result.txt";
+		String cvResultPath="./_output_results/HGA_cv_result.txt";
 
 
 		ArrayList<Map <String,ExpResult>> HGAfinalResult=null;
@@ -533,13 +533,13 @@ public class CrossValidate {
 				cvRound=i;
 				wbCVData(dataMap,cvDataMap,i);
 				
-				copyData(cvTrainingDataPath,".\\_input_data\\CrossValidate\\cvTmp\\cv_training_data_"+i+".txt");
-				copyData(cvTestDataPath,".\\_input_data\\CrossValidate\\cvTmp\\cv_test_data_"+i+".txt");
+				copyData(cvTrainingDataPath,"./_input_data/CrossValidate/cvTmp/cv_training_data_"+i+".txt");
+				copyData(cvTestDataPath,"./_input_data/CrossValidate/cvTmp/cv_test_data_"+i+".txt");
 				
 				/*製造noise給trainingData*/
-				//addNoise(".\\_input_data\\CrossValidate\\cvTmp\\cv_training_data_"+i+".txt",cvTrainingDataPath);
+				//addNoise("./_input_data/CrossValidate/cvTmp/cv_training_data_"+i+".txt",cvTrainingDataPath);
 				
-				ArrayList<Map <String,ExpResult>> kExpResultTmp=Epcieold.sysProc2(cvTestDataPath, cvTrainingDataPath,  ".\\_output_results\\hga_testing_result_cv_"+i+".txt");
+				ArrayList<Map <String,ExpResult>> kExpResultTmp=Epcieold.sysProc2(cvTestDataPath, cvTrainingDataPath,  "./_output_results/hga_testing_result_cv_"+i+".txt");
 				
 				if(i==1){
 					HGAfinalResult=kExpResultTmp;
@@ -575,7 +575,7 @@ public class CrossValidate {
 			}
 		}
 		CrossValidate cv= new CrossValidate();
-		cv.wbResult(".\\_output_results\\HGA_cv_result.txt",finalResult,false);
+		cv.wbResult("./_output_results/HGA_cv_result.txt",finalResult,false);
 
 //		CrossValidate cv= new CrossValidate();
 //

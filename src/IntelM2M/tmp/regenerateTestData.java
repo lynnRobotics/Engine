@@ -24,7 +24,7 @@ public class regenerateTestData
 //		
 //		try
 //		{
-//			BufferedReader rdr = new BufferedReader(new FileReader(".\\_input_data\\sensor_list.txt"));
+//			BufferedReader rdr = new BufferedReader(new FileReader("./_input_data/sensor_list.txt"));
 //			String readStr = "", data = "", pal = "";
 //			int i = 0;
 //			while((readStr = rdr.readLine()) != null)
@@ -35,9 +35,9 @@ public class regenerateTestData
 //			}
 //			rdr.close();
 //			
-//			FileWriter writer = new FileWriter(new File(".\\_simulated_test_data\\testing_data_with_PAL.txt"));
-//			BufferedReader rdrData = new BufferedReader(new FileReader(".\\_simulated_test_data\\" +  fileName1 + ".txt"));
-//			BufferedReader rdrPAL = new BufferedReader(new FileReader(".\\_simulated_test_data\\" +  fileName2 + ".txt"));
+//			FileWriter writer = new FileWriter(new File("./_simulated_test_data/testing_data_with_PAL.txt"));
+//			BufferedReader rdrData = new BufferedReader(new FileReader("./_simulated_test_data/" +  fileName1 + ".txt"));
+//			BufferedReader rdrPAL = new BufferedReader(new FileReader("./_simulated_test_data/" +  fileName2 + ".txt"));
 //			
 //			while(((data = rdrData.readLine()) != null) && ((pal = rdrPAL.readLine()) != null))
 //			{

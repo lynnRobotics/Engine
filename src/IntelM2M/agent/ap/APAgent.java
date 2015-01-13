@@ -9,23 +9,17 @@ import IntelM2M.exp.ExpRecorder;
 
 public class APAgent {
 
-	
 	public void setPriorityForEUS(ArrayList<AppNode> eusList){
 		ArrayList<Double> priorityList= new ArrayList<Double>();
 		for(AppNode eus:eusList){
 			double priority=FuzzyInference.getPriority_test(eus);
-			eus.priority=priority;
-			
+			eus.priority=priority;	
 		}
-
 	}
 
-	
-	/*input: decision array, eusList, inferResult*/
+	/* input: decision array, eusList, inferResult */
 	public double getComfortCost(ArrayList<AppNode> decisionList,ArrayList<AppNode> apRawList){
-
-		
-		/*cal cost form priority array and decision array(apDecisionList)*/
+		// cal cost form priority array and decision array(apDecisionList)
 		double cost=0;
 		for(int i=0;i<decisionList.size();i++){
 			AppNode dApp=decisionList.get(i);
@@ -34,16 +28,12 @@ public class APAgent {
 				cost+=Math.pow(dApp.priority, 2);
 			}
 		}
-
-
-		return cost;
-		
+		return cost;		
 	}
 	
-	/*optimization*/
-	
+	/* optimization */
 	public ArrayList <AppNode> getOptApList(ArrayList<AppNode> eusList,GAinference gaInference){
-		/*get thermal List*/
+		// get ap List
 		ArrayList<AppNode> apAppList= new ArrayList<AppNode>();
 		ArrayList<AppNode> apRawList= new ArrayList<AppNode> ();
 		for(AppNode app:eusList){
@@ -54,9 +44,7 @@ public class APAgent {
 				apRawList.add(app3);
 			}
 		}
-		
-
-		
+				
 		/*這邊要想辦法
 		 * 不能夠全部丟進去瓊舉
 		 * 要用些手段
@@ -65,9 +53,7 @@ public class APAgent {
 		 * */
 		setPriorityForEUS(apAppList);
 
-
-		//ArrayList<AppNode> bestAnswer=null;
-	
+		//ArrayList<AppNode> bestAnswer=null;	
 		apAppList= apIterate(apAppList,apRawList);
 		
 //		/*for experiment record visual save*/
@@ -87,26 +73,19 @@ public class APAgent {
 				if(app.envContext.contains("on")){
 					app.haveAPControlFromOn=true;
 				}
-				app.envContext="off";
-				
+				app.envContext="off";		
 			}
 		}
 		return apAppList;
 	}
 	
 	private ArrayList<AppNode>apIterate(ArrayList<AppNode> apAppList,ArrayList<AppNode> apRawList){
-		
-		/*iterate*/
-		/*直接關掉priority <? 的那些電器*/
-		apAppList=updateState(apAppList);
-			
+		/* iterate */
+		/* 直接關掉priority <? 的那些電器 */
+		apAppList=updateState(apAppList);		
 		double cost=getComfortCost(apAppList,apRawList);
 		double amp=Optimizer.calEnergyConsumption(apAppList);
 	
-
-
 		return apAppList;
 	}
-
-
 }

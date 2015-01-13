@@ -1,9 +1,0 @@
-@relation kitchen-weka.filters.unsupervised.attribute.ReplaceMissingValues
-
-@attribute intensity numeric
-@attribute current_refi_kitchen numeric
-@attribute current_microwave_kitchen numeric
-@attribute class {PreparingFood}
-
-@data
-1.73,2,0,PreparingFood
