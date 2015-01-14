@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 import s2h.platform.support.JsonBuilder;
 import s2h.platform.support.MessageUtils;
-
 import IntelM2M.datastructure.AppNode;
 import IntelM2M.esdse.Esdse;
 import IntelM2M.mq.Producer;
@@ -221,6 +220,15 @@ public class ControlAgent {
 			}
 			// TV command
 			else if(app.appName.equals("current_TV_livingroom")){
+				try
+				   {
+				   Thread.sleep( 10000 ); // 10000 milliseconds
+				   }
+				catch ( InterruptedException e )
+				   {
+					System.err.println( "awakened prematurely after study-light_0" );
+				   }
+				json.reset();
 				if (eusApp.envContext.equals("on") && (app.envContext.equals("standby") || app.envContext.equals("off"))) {
 					json.reset();
 					sendCommand(json.add("value", "TV_OFF"));

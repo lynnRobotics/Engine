@@ -795,13 +795,58 @@ public class Esdse {
 			return;
 		}
 		else {
-			if(epcie.gaInference.actInferResultSet.contains("AllSleeping") && epcie.gaInference.actInferResultSet.size() == 1){
+			if(epcie.gaInference.actInferResultSet.contains("AllSleeping") && epcie.gaInference.actInferResultSet.size() == 1 && standbyAllOn == true){
+				// Turn off all the appliances
+				json.reset();
+				producer.sendOut(json.add("value", "ALL_OFF").toJson(), "ssh.COMMAND");
+				try
+				   {
+				   Thread.sleep( 1000 ); // 1000 milliseconds
+				   }
+				catch ( InterruptedException e )
+				   {
+					System.err.println( "awakened prematurely after ALL_OFF" );
+				   }
+				// Turn off all the standby power
 				ArrayList<String> exceptionID = new ArrayList<String>();
 				exceptionID.add("16");
 				if (standbyAllOn) {
 					controlAgent.turnOffStandbyPower(exceptionID);
 					standbyAllOn = false;
 				}
+				// Turn off all lights
+				json.reset();
+				producer.sendOut(json.add("change", "Darken").add("value", "study-light_0").toJson(), "ssh.COMMAND");
+				try
+				   {
+				   Thread.sleep( 1000 ); // 1000 milliseconds
+				   }
+				catch ( InterruptedException e )
+				   {
+					System.err.println( "awakened prematurely after study-light_0" );
+				   }
+				json.reset();
+				producer.sendOut(json.add("change", "Darken").add("value", "livingroom-central-light_0").toJson(), "ssh.COMMAND");
+				try
+				   {
+				   Thread.sleep( 1000 ); // 1000 milliseconds
+				   }
+				catch ( InterruptedException e )
+				   {
+					System.err.println( "awakened prematurely after livingroom-central-light_0" );
+				   }
+				json.reset();
+				producer.sendOut(json.add("change", "Darken").add("value", "livingroom-ring-light_0").toJson(), "ssh.COMMAND");
+				try
+				   {
+				   Thread.sleep( 1000 ); // 1000 milliseconds
+				   }
+				catch ( InterruptedException e )
+				   {
+					System.err.println( "awakened prematurely after livingroom-ring-light_0" );
+				   }
+				json.reset();
+				producer.sendOut(json.add("change", "Darken").add("value", "bedroom-light_0").toJson(), "ssh.COMMAND");
 			}
 			System.out.println("Control starts!");
 			boolean controlExistence = controlAgent.controlAppliance(decisionList, eusList);
@@ -1157,13 +1202,19 @@ public class Esdse {
 		if (NumOfPeople > 0 && standbyAllOn == false){ // Come back
 	    	System.err.println("Come Back! Turn on all standy power!");
 	    	controlAgent.turnOnStandbyPower();
-	    	standbyAllOn = true; 
+	    	standbyAllOn = true;
+	    	try // Rest for ten seconds for the meters to be stable
+			   {
+			   Thread.sleep( 10000 ); // 10000 milliseconds
+			   }
+			catch ( InterruptedException e )
+			   {
+				System.err.println( "awakened prematurely after all_open" );
+			   }
+	    	
 		}
 		else if (NumOfPeople == 0 && standbyAllOn == true){ // Go out
-			// Turn off all the standby power
-			controlAgent.turnOffStandbyPower(null);
-			standbyAllOn = false;
-			// Turn off all lights
+			// Turn off all the appliances
 			json.reset();
 			producer.sendOut(json.add("value", "ALL_OFF").toJson(), "ssh.COMMAND");
 			try
@@ -1174,6 +1225,10 @@ public class Esdse {
 			   {
 				System.err.println( "awakened prematurely after ALL_OFF" );
 			   }
+			// Turn off all the standby power
+			controlAgent.turnOffStandbyPower(null);
+			standbyAllOn = false;
+			// Turn off all lights
 			json.reset();
 			producer.sendOut(json.add("change", "Darken").add("value", "study-light_0").toJson(), "ssh.COMMAND");
 			try
