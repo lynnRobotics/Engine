@@ -15,6 +15,7 @@ public class ControlAgent {
 	boolean controlExistence;
 	JsonBuilder json = MessageUtils.jsonBuilder();
 	private final int fanOnThreshold = 175;
+	public boolean control_TVControlOn = true; // for demo
 	
 	public ControlAgent (Producer producer) {
 		this.producer = producer;
@@ -28,8 +29,13 @@ public class ControlAgent {
 		return oldDecisionList;
 	}
 	
-	public boolean controlAppliance(ArrayList<AppNode> decisionList, ArrayList<AppNode> eusList){
-		controlExistence = false;
+	public boolean returnTVControlOn (){
+		return control_TVControlOn;
+	}
+	
+	public boolean controlAppliance(ArrayList<AppNode> decisionList, ArrayList<AppNode> eusList, boolean TVControlOn){
+		//controlExistence = false;
+		//control_TVControlOn = TVControlOn;
 		//sendControlStartSignal();
 		int i, j, k;
 		for(i = 0; i < decisionList.size(); i++){
@@ -220,18 +226,20 @@ public class ControlAgent {
 			}
 			// TV command
 			else if(app.appName.equals("current_TV_livingroom")){
-				try
-				   {
-				   Thread.sleep( 10000 ); // 10000 milliseconds
-				   }
-				catch ( InterruptedException e )
-				   {
-					System.err.println( "awakened prematurely after study-light_0" );
-				   }
 				json.reset();
-				if (eusApp.envContext.equals("on") && (app.envContext.equals("standby") || app.envContext.equals("off"))) {
+				// TV_flag for demo
+				if (control_TVControlOn && eusApp.envContext.equals("on") && (app.envContext.equals("standby") || app.envContext.equals("off"))) {
 					json.reset();
 					sendCommand(json.add("value", "TV_OFF"));
+					control_TVControlOn = false;
+					try
+					   {
+					   Thread.sleep( 10000 ); // 10000 milliseconds
+					   }
+					catch ( InterruptedException e )
+					   {
+						System.err.println( "awakened prematurely after TV_OFF" );
+					   }
 				}
 			}
 			// WaterColdFan command

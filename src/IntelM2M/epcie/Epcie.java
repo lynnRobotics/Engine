@@ -30,7 +30,7 @@ public class Epcie {
 	public double duration;
 	public double threshold = 5;               // unit is second
 	public Date startTime = new Date();
-	static final Boolean retrain = true;     // Retrain or not
+	static final Boolean retrain = false;     // Retrain or not
 	static final int trainLevel = 3;          // Level of group activity
 
 	/* For simulator usage */

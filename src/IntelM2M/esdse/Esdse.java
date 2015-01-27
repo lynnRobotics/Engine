@@ -87,6 +87,8 @@ public class Esdse {
 	/* Some parameters for rule based condition*/
 	private boolean activityChanged = false;
 	private boolean wakeUpFlag = false;
+	private boolean AllSleeping = false;
+	public static boolean TVControlOn = false;
 	//private boolean standbyOff = false;
 	
 	/* Communicate with web page for confirming the control */
@@ -102,7 +104,7 @@ public class Esdse {
 	//private boolean ToBeGoOut = false; // Assume the initial condition is GoOut
 	private boolean standbyAllOn = false; // Assume the initial condition is Standby Off
 	private int hallwayLightLuxTreshold = 30;
-	private boolean doorOpen = false;
+	private boolean doorLightOn = false;
 	
 	/* For new testing data collection (Yi-Hsiu's experiment usage)*/
 	private String sensorDataVector;
@@ -590,7 +592,7 @@ public class Esdse {
 		if(epcie == null) { // jump out if it is in a learning mode
 			for (String sensorName : sensorNameArray) {
 				String featureString = sensorReading.get(sensorName).split("_")[0];
-				System.out.print(featureString + " ");
+				System.out.println("featureString"+ featureString + " ");
 			}
 			/////
 			// print the Activity Label System.out.print("#"+...);
@@ -666,6 +668,9 @@ public class Esdse {
 				break;
 			}
 		}
+		
+		if (epcie.currentActInferResultSet.contains("WatchingTV") || epcie.currentActInferResultSet.contains("PlayingKinect"))
+			TVControlOn = true;
 		
 		// If inferred activity set equals to previous time
 		Date currentTime = new Date();
@@ -771,6 +776,7 @@ public class Esdse {
 		// If wake up then open all standby power
 		else if(wakeUpFlag){
 			wakeUpFlag = false;
+			AllSleeping = false;
 			if(!standbyAllOn){
 				controlAgent.turnOnStandbyPower();
 				standbyAllOn = true;
@@ -795,7 +801,9 @@ public class Esdse {
 			return;
 		}
 		else {
-			if(epcie.gaInference.actInferResultSet.contains("AllSleeping") && epcie.gaInference.actInferResultSet.size() == 1 && standbyAllOn == true){
+			if(epcie.gaInference.actInferResultSet.contains("AllSleeping") && epcie.gaInference.actInferResultSet.size() == 1){
+				AllSleeping = true;
+				if (standbyAllOn == true){
 				// Turn off all the appliances
 				json.reset();
 				producer.sendOut(json.add("value", "ALL_OFF").toJson(), "ssh.COMMAND");
@@ -847,9 +855,14 @@ public class Esdse {
 				   }
 				json.reset();
 				producer.sendOut(json.add("change", "Darken").add("value", "bedroom-light_0").toJson(), "ssh.COMMAND");
+				}
 			}
 			System.out.println("Control starts!");
-			boolean controlExistence = controlAgent.controlAppliance(decisionList, eusList);
+			
+			//json.reset();
+			//producer.sendOut(json.add("TV_CONTROL_ON", Boolean.toString(TVControlOn)).toJson(), "ssh.CONTEXT");
+			boolean controlExistence = controlAgent.controlAppliance(decisionList, eusList, TVControlOn);
+			TVControlOn = controlAgent.returnTVControlOn();
 			System.out.println("Control finishes!");
 			// If controlExistence is true means control finish
 			// Set signal to false and wait for signal from log engine
@@ -1181,28 +1194,41 @@ public class Esdse {
 
 	// New Version
 	private void checkHallwayActivity(SensorNode sensorNode){
-		if(sensorNode.name.equals("switch_door_hallway") && sensorNode.discreteValue.equals("on")){
-			if (!doorOpen) doorOpen = true;
-			json.reset();
-			producer.sendOut(json.add("value", "DOOR-LIGHT_ON").toJson(), "ssh.COMMAND");
+		if(sensorNode.name.equals("switch_door_hallway")){
+			if ( sensorNode.discreteValue.equals("on") && doorLightOn == false){
+				json.reset();
+				producer.sendOut(json.add("value", "DOOR-LIGHT_ON").toJson(), "ssh.COMMAND");
+				doorLightOn = true;
+			/*
 			try{
-				Thread.sleep( 3000 ); // 3000 milliseconds
+				Thread.sleep( 5000 ); // 5000 milliseconds
 			}
 			catch ( InterruptedException e ){
 				System.err.println( "awakened prematurely before DOOR-LIGHT_OFF" );
 			}
 			json.reset();
-			producer.sendOut(json.add("value", "DOOR-LIGHT_OFF").toJson(), "ssh.COMMAND");
-			doorOpen = false;
+			producer.sendOut(json.add("value", "DOOR-LIGHT_OFF").toJson(), "ssh.COMMAND");*/
+			}
+			else if (sensorNode.discreteValue.equals("off") && doorLightOn == true){
+				try{
+					Thread.sleep( 5000 ); // 5000 milliseconds
+				}
+				catch ( InterruptedException e ){
+					System.err.println( "awakened prematurely before DOOR-LIGHT_OFF" );
+				}
+				json.reset();
+				producer.sendOut(json.add("value", "DOOR-LIGHT_OFF").toJson(), "ssh.COMMAND");
+				doorLightOn = false;
+			}
 		}
 		
 	}
 	
 	private void checkComeBackandGoOut(SensorNode sensorNode){
-		if (NumOfPeople > 0 && standbyAllOn == false){ // Come back
-	    	System.err.println("Come Back! Turn on all standy power!");
-	    	controlAgent.turnOnStandbyPower();
-	    	standbyAllOn = true;
+		if (NumOfPeople > 0 && standbyAllOn == false && AllSleeping == false){ // Come back
+	    		System.err.println("Come Back! Turn on all standy power!");
+	    		controlAgent.turnOnStandbyPower();
+	    		standbyAllOn = true;
 	    	try // Rest for ten seconds for the meters to be stable
 			   {
 			   Thread.sleep( 10000 ); // 10000 milliseconds
