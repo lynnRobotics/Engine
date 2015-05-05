@@ -1196,18 +1196,19 @@ public class Esdse {
 	private void checkHallwayActivity(SensorNode sensorNode){
 		if(sensorNode.name.equals("switch_door_hallway")){
 			if ( sensorNode.discreteValue.equals("on") && doorLightOn == false){
+				/*
 				json.reset();
 				producer.sendOut(json.add("value", "DOOR-LIGHT_ON").toJson(), "ssh.COMMAND");
-				doorLightOn = true;
-			/*
-			try{
-				Thread.sleep( 5000 ); // 5000 milliseconds
-			}
-			catch ( InterruptedException e ){
-				System.err.println( "awakened prematurely before DOOR-LIGHT_OFF" );
-			}
-			json.reset();
-			producer.sendOut(json.add("value", "DOOR-LIGHT_OFF").toJson(), "ssh.COMMAND");*/
+				doorLightOn = true;*/
+			
+				try{
+					Thread.sleep( 5000 ); // 5000 milliseconds
+				}
+				catch ( InterruptedException e ){
+					System.err.println( "awakened prematurely before DOOR-LIGHT_ON" );
+				}
+				json.reset();
+				producer.sendOut(json.add("value", "DOOR-LIGHT_ON").toJson(), "ssh.COMMAND");
 			}
 			else if (sensorNode.discreteValue.equals("off") && doorLightOn == true){
 				try{

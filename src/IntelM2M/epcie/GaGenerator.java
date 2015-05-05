@@ -310,18 +310,19 @@ public class GaGenerator {
 	}
 
 	/* No use */
+	
 	public Boolean buildHGA(Classifier DBN, GaGenerator lastGA,
 			GaEtcGenerator lastGAETC, Boolean retrain) {
-		/* 找出上一個gaList */
+		// 找出上一個gaList 
 		Set<String> keys = lastGA.gaList.keySet();
 		String[] lastGAList = (String[]) keys.toArray(new String[0]);
-		/* 根據 classifiers來算smatrix */
+		// 根據 classifiers來算smatrix 
 		int round = CrossValidate.cvRound;
 		double sMatrix[][] = buildSMatrix("./_output_results/sMatrix/round"
 				+ round + "_sMatrix_" + (level - 1) + ".txt", DBN, lastGAList,
 				retrain);
-		/* 根據smatrix來build gaList */
-		int gaIndex = 0;/* 第n個ga */
+		// 根據smatrix來build gaList 
+		int gaIndex = 0;// 第n個ga 
 
 		Boolean continueFlag = true;
 		while (continueFlag) {
@@ -329,12 +330,12 @@ public class GaGenerator {
 			double min = minArr[0];
 			int i = (int) minArr[1];
 			int j = (int) minArr[2];
-			/* 檢查 i j是否有共同的 explicit/implict */
+			// 檢查 i j是否有共同的 explicit/implict 
 			Map<String, RelationTable> actAppList = lastGAETC.actAppList;
 			String gaName1 = lastGAList[i];
 			String gaName2 = lastGAList[j];
 			Boolean sameService = checkSameService(gaName1, gaName2, actAppList);
-			/* 第二層才開始合併 */
+			// 第二層才開始合併 
 			if (level != 1 && min != 0) {
 				if (sameService) {
 					GroupActivity ga = new GroupActivity("g"
@@ -345,7 +346,7 @@ public class GaGenerator {
 					ArrayList<String> memberList2 = lastGA
 							.getGroupMember(lastGAList[j]);
 					for (String str : memberList1) {
-						/* 加入合併前該ga所有的 activity */
+						// 加入合併前該ga所有的 activity 
 						if (!ga.actMemberList.contains(str)) {
 							ga.actMemberList.add(str);
 						}
@@ -356,7 +357,7 @@ public class GaGenerator {
 						}
 					}
 					gaList.put(ga.GID, ga);
-					/* 登記加過的activity */
+					// 登記加過的activity 
 					sMatrix[i][i] = -1;
 					sMatrix[j][j] = -1;
 					gaIndex += 1;
@@ -370,11 +371,11 @@ public class GaGenerator {
 			}
 
 		}
-		/* 沒有任何相似的activity */
+		// 沒有任何相似的activity 
 		if (gaList.size() == 0) {
 			return false;
 		} else {
-			/* 沒被group到的也加入ga_list */
+			// 沒被group到的也加入ga_list 
 			for (int i = 0; i < lastGAList.length; i++) {
 				Boolean existInGroup = false;
 				for (int j = 0; j < lastGAList.length; j++) {
@@ -400,6 +401,7 @@ public class GaGenerator {
 			return true;
 		}
 	}
+	
 
 	public Boolean buildHGA(Classifier DBN, GaGenerator lastGA,
 			GaEscGenerator lastGAESC, Boolean retrain) {
